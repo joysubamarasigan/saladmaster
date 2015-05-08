@@ -1,0 +1,4795 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jakobi\n"
+"POT-Creation-Date: 2015-04-27 11:37+0100\n"
+"PO-Revision-Date: 2015-04-27 11:37+0100\n"
+"Last-Translator: Giustino Borzacchiello <giustinob@gmail.com>\n"
+"Language-Team: Your Inspiration Themes <support@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comments.php:47
+#, php-format
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:72 ../core/lib/yit/layout/panel/yit-layout-panel.php:274
+#: ../core/lib/yit/layout/panel/yit-layout-panel.php:297
+#: ../core/lib/yit/layout/panel/yit-layout-panel.php:320
+#: ../core/lib/yit/layout/panel/yit-layout-panel.php:336
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1482
+#: ../core/plugin-fw/templates/metaboxes/types/customtabs.php:46
+#: ../core/plugin-fw/templates/metaboxes/types/customtabs.php:90
+#: ../core/templates/admin/metaboxes/types/customtabs.php:46
+#: ../core/templates/admin/metaboxes/types/customtabs.php:89
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:76
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:92
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:124
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:148
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:148
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:340
+#: ../core/shortcodes/shortcodes.php:328
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:80
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:87 ../comments.php:89
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:88
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:90
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../core/functions-core.php:179
+msgid "Custom"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:239
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:240
+msgid "Install Plugins"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:241
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:242
+msgid "Something went wrong."
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:243
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:244
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:245
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:246
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:247
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:248
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:249
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:250
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:251
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:252
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:253
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:254
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:255
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2093
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:256
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1779
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:257
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:258
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:607
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2311
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1285
+msgid "Private Repository"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1288
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1293
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1296
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:139
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:331
+msgid "Required"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1296
+msgid "Recommended"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1299
+msgid "Not Installed"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1301
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1503
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</"
+"a>"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1519
+msgid "Plugin"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1520
+msgid "Source"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1521
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1051
+msgid "Type"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1522
+msgid "Status"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1540
+msgid "Install"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1541
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:68
+msgid "Activate"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1652
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1757
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2076
+msgid "Install package not available."
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2078
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2079
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2080
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2081
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2092
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2204
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2205
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2209
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2210
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2210
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2217
+msgid "Show Details"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2210
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2217
+msgid "Hide Details"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2211
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2212
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2216
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2217
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2218
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../core/lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2219
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../core/lib/yit/layout/module/yit-layout-module-author.php:50
+#: ../theme/templates/comments/list.php:29
+msgid "Author"
+msgstr ""
+
+#: ../core/lib/yit/layout/module/yit-layout-module-author.php:151
+#: ../core/lib/yit/layout/module/yit-layout-module-post_type.php:170
+#: ../core/lib/yit/layout/module/yit-layout-module-static.php:76
+#: ../core/lib/yit/layout/module/yit-layout-module-taxonomy.php:152
+msgid "View all"
+msgstr ""
+
+#: ../core/lib/yit/layout/module/yit-layout-module-author.php:158
+#: ../core/lib/yit/layout/module/yit-layout-module-post_type.php:177
+#: ../core/lib/yit/layout/module/yit-layout-module-taxonomy.php:159
+#: ../theme/templates/searchform/post.php:14
+msgid "Search"
+msgstr ""
+
+#: ../core/lib/yit/layout/module/yit-layout-module-author.php:171
+msgid "Authors"
+msgstr ""
+
+#: ../core/lib/yit/layout/module/yit-layout-module-author.php:172
+msgid "All Authors"
+msgstr ""
+
+#: ../core/lib/yit/layout/module/yit-layout-module-post_type.php:54
+msgid "Post Types"
+msgstr ""
+
+#: ../core/lib/yit/layout/module/yit-layout-module-post_type.php:58
+#: ../core/lib/yit/layout/module/yit-layout-module-static.php:55
+#: ../core/lib/yit/layout/panel/yit-layout-panel.php:67
+#: ../core/lib/yit/layout/yit-layout-options.php:82
+msgid "Front Page"
+msgstr ""
+
+#: ../core/lib/yit/layout/module/yit-layout-module-post_type.php:59
+#: ../core/lib/yit/layout/module/yit-layout-module-static.php:57
+#: ../core/lib/yit/layout/panel/yit-layout-panel.php:68
+#: ../core/lib/yit/layout/yit-layout-options.php:83
+#: ../theme/panel/theme-options/typography-and-color/content.php:26
+msgid "404 Page"
+msgstr ""
+
+#: ../core/lib/yit/layout/module/yit-layout-module-post_type.php:60
+#: ../core/lib/yit/layout/panel/yit-layout-panel.php:69
+#: ../core/lib/yit/layout/yit-layout-options.php:84
+msgid "Search Page"
+msgstr ""
+
+#: ../core/lib/yit/layout/module/yit-layout-module-post_type.php:165
+msgid "Most Recent"
+msgstr ""
+
+#: ../core/lib/yit/layout/module/yit-layout-module-site.php:49
+msgid "Site"
+msgstr ""
+
+#: ../core/lib/yit/layout/module/yit-layout-module-site.php:59
+msgid "Default Configuration"
+msgstr ""
+
+#: ../core/lib/yit/layout/module/yit-layout-module-static.php:49
+msgid "Static"
+msgstr ""
+
+#: ../core/lib/yit/layout/module/yit-layout-module-static.php:56
+msgid "Search Results"
+msgstr ""
+
+#: ../core/lib/yit/layout/module/yit-layout-module-static.php:88
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:464
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:578
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: ../core/lib/yit/layout/module/yit-layout-module-taxonomy.php:49
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1076
+msgid "Taxonomy"
+msgstr ""
+
+#: ../core/lib/yit/layout/module/yit-layout-module-taxonomy.php:147
+msgid "Most Used"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:19 ../theme/metabox.php:58
+msgid "Header"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:22 ../theme/metabox.php:61
+msgid "Use static image"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:23 ../theme/metabox.php:62
+msgid "Set YES if you want a static header, instead of the slider."
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:28 ../theme/metabox.php:67
+msgid "Static image"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:29 ../theme/metabox.php:68
+msgid ""
+"Upload here the image to use for the static header, only if you have set to "
+"YES the option above."
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:38 ../theme/metabox.php:77
+msgid "Static image link"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:39 ../theme/metabox.php:78
+msgid "The URL where the fixed image will link."
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:48 ../theme/metabox.php:87
+msgid "Static image target"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:49 ../theme/metabox.php:88
+msgid "How to open the link of the static image."
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:52
+#: ../core/lib/yit/layout/panel-options.php:214
+#: ../core/lib/yit/layout/panel-options.php:231
+#: ../core/lib/yit/layout/panel-options.php:251
+#: ../core/lib/yit/layout/panel-options.php:345
+#: ../core/lib/yit/layout/panel-options.php:358
+#: ../core/lib/yit/layout/panel-options.php:369
+#: ../core/shortcodes/shortcodes.php:498 ../theme/metabox.php:91
+#: ../theme/metabox.php:137 ../theme/metabox.php:154 ../theme/metabox.php:174
+msgid "Default"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:53 ../theme/metabox.php:92
+msgid "Parent frameset"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:54 ../theme/metabox.php:93
+msgid "Full body of the window"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:55 ../theme/metabox.php:94
+msgid "In a new window"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:67
+msgid "Enable parallax effect"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:68
+msgid "Enable Parallax Effect in the header image."
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:73
+msgid "Container height"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:85
+msgid "Content"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:95
+msgid "Vertical align"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:99
+#: ../core/lib/yit/layout/panel-options.php:114
+#: ../core/lib/yit/layout/panel-options.php:232
+#: ../core/lib/yit/layout/panel-options.php:370
+#: ../core/shortcodes/shortcodes.php:446
+#: ../core/templates/admin/type/typography.php:128 ../theme/metabox.php:155
+#: ../theme/panel/theme-options/typography-and-color/footer.php:182
+#: ../theme/panel/theme-options/typography-and-color/general.php:177
+#: ../theme/panel/theme-options/typography-and-color/header.php:100
+#: ../theme/panel/theme-options/typography-and-color/header.php:631
+msgid "Center"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:100
+#: ../core/shortcodes/shortcodes.php:501
+msgid "Top"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:101
+#: ../core/shortcodes/shortcodes.php:454
+msgid "Bottom"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:110
+msgid "Horizontal align"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:115
+#: ../core/shortcodes/shortcodes.php:444
+#: ../core/templates/admin/type/typography.php:127
+msgid "Left"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:116
+#: ../core/shortcodes/shortcodes.php:445
+#: ../core/templates/admin/type/typography.php:129
+msgid "Right"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:125
+msgid "Content text color"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:135
+msgid "Effect"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:139
+msgid "fadeIn"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:140
+msgid "fadeInUp"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:141
+msgid "fadeInDown"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:142
+msgid "fadeInLeft"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:143
+msgid "fadeInRight"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:144
+msgid "fadeInUpBig"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:145
+msgid "fadeInDownBig"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:146
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:147
+msgid "fadeInRightBig"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:148
+msgid "bounceIn"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:149
+msgid "bounceInDown"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:150
+msgid "bounceInUp"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:151
+msgid "bounceInLeft"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:152
+msgid "bounceInRight"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:153
+msgid "rotateIn"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:154
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:155
+msgid "rotateInDownRight"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:156
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:157
+msgid "rotateInUpRight"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:158
+msgid "lightSpeedIn"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:159
+msgid "hinge"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:160
+msgid "rollIn"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:169
+msgid "Overlay"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:170
+msgid "Set an opacity of overlay (0-100)"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:184 ../theme/metabox.php:107
+msgid "Enable custom header background"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:185 ../theme/metabox.php:108
+msgid "Set YES if you want to customize the header background."
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:190 ../theme/metabox.php:113
+#: ../theme/panel/theme-options/typography-and-color/header.php:33
+msgid "Header background color"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:191 ../theme/metabox.php:114
+msgid "Select a background color for the header"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:200 ../theme/metabox.php:123
+#: ../theme/panel/theme-options/typography-and-color/header.php:67
+msgid "Header background image"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:201 ../theme/metabox.php:124
+msgid "Select a background image for the header."
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:210
+#: ../core/lib/yit/layout/panel-options.php:340 ../theme/metabox.php:133
+#: ../theme/panel/theme-options/typography-and-color/footer.php:168
+#: ../theme/panel/theme-options/typography-and-color/general.php:162
+#: ../theme/panel/theme-options/typography-and-color/header.php:86
+#: ../theme/panel/theme-options/typography-and-color/header.php:617
+msgid "Background repeat"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:211 ../theme/metabox.php:134
+#: ../theme/panel/theme-options/typography-and-color/general.php:163
+msgid "Select the repeat mode for the background image."
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:215
+#: ../core/lib/yit/layout/panel-options.php:346 ../theme/metabox.php:138
+#: ../theme/panel/theme-options/typography-and-color/footer.php:163
+#: ../theme/panel/theme-options/typography-and-color/general.php:157
+#: ../theme/panel/theme-options/typography-and-color/header.php:81
+#: ../theme/panel/theme-options/typography-and-color/header.php:612
+msgid "Repeat"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:216
+#: ../core/lib/yit/layout/panel-options.php:347 ../theme/metabox.php:139
+#: ../theme/panel/theme-options/typography-and-color/footer.php:164
+#: ../theme/panel/theme-options/typography-and-color/general.php:158
+#: ../theme/panel/theme-options/typography-and-color/header.php:82
+#: ../theme/panel/theme-options/typography-and-color/header.php:613
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:217
+#: ../core/lib/yit/layout/panel-options.php:348 ../theme/metabox.php:140
+#: ../theme/panel/theme-options/typography-and-color/footer.php:165
+#: ../theme/panel/theme-options/typography-and-color/general.php:159
+#: ../theme/panel/theme-options/typography-and-color/header.php:83
+#: ../theme/panel/theme-options/typography-and-color/header.php:614
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:218
+#: ../core/lib/yit/layout/panel-options.php:349 ../theme/metabox.php:141
+#: ../theme/panel/theme-options/typography-and-color/footer.php:166
+#: ../theme/panel/theme-options/typography-and-color/general.php:160
+#: ../theme/panel/theme-options/typography-and-color/header.php:84
+#: ../theme/panel/theme-options/typography-and-color/header.php:615
+msgid "No Repeat"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:227
+#: ../core/lib/yit/layout/panel-options.php:364 ../theme/metabox.php:150
+#: ../theme/panel/theme-options/typography-and-color/footer.php:190
+#: ../theme/panel/theme-options/typography-and-color/general.php:185
+#: ../theme/panel/theme-options/typography-and-color/header.php:108
+#: ../theme/panel/theme-options/typography-and-color/header.php:639
+msgid "Background position"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:228 ../theme/metabox.php:151
+#: ../theme/panel/theme-options/typography-and-color/general.php:186
+msgid "Select the position for the background image."
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:233
+#: ../core/lib/yit/layout/panel-options.php:371 ../theme/metabox.php:156
+msgid "Top left"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:234
+#: ../core/lib/yit/layout/panel-options.php:372 ../theme/metabox.php:157
+msgid "Top center"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:235
+#: ../core/lib/yit/layout/panel-options.php:373 ../theme/metabox.php:158
+msgid "Top right"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:236
+#: ../core/lib/yit/layout/panel-options.php:374 ../theme/metabox.php:159
+msgid "Bottom left"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:237
+#: ../core/lib/yit/layout/panel-options.php:375 ../theme/metabox.php:160
+msgid "Bottom center"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:238
+#: ../core/lib/yit/layout/panel-options.php:376 ../theme/metabox.php:161
+msgid "Bottom right"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:247
+#: ../core/lib/yit/layout/panel-options.php:353 ../theme/metabox.php:170
+#: ../theme/panel/theme-options/typography-and-color/footer.php:207
+#: ../theme/panel/theme-options/typography-and-color/general.php:203
+#: ../theme/panel/theme-options/typography-and-color/header.php:125
+#: ../theme/panel/theme-options/typography-and-color/header.php:656
+msgid "Background attachment"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:248 ../theme/metabox.php:171
+#: ../theme/panel/theme-options/typography-and-color/general.php:204
+msgid "Select the attachment for the background image."
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:252
+#: ../core/lib/yit/layout/panel-options.php:359 ../theme/metabox.php:175
+#: ../theme/panel/theme-options/typography-and-color/footer.php:204
+#: ../theme/panel/theme-options/typography-and-color/general.php:200
+#: ../theme/panel/theme-options/typography-and-color/header.php:122
+#: ../theme/panel/theme-options/typography-and-color/header.php:653
+msgid "Scroll"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:253
+#: ../core/lib/yit/layout/panel-options.php:360 ../theme/metabox.php:176
+#: ../theme/panel/theme-options/typography-and-color/footer.php:205
+#: ../theme/panel/theme-options/typography-and-color/general.php:201
+#: ../theme/panel/theme-options/typography-and-color/header.php:123
+#: ../theme/panel/theme-options/typography-and-color/header.php:654
+msgid "Fixed"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:266
+msgid "Page Settings"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:270 ../theme/metabox.php:32
+#: ../theme/panel/theme-options/content/blog.php:50
+#: ../theme/panel/theme-options/content/blog.php:218
+#: ../theme/shortcodes.php:117
+msgid "Show Title"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:271 ../theme/metabox.php:33
+msgid "Show or not the title of the page"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:279 ../theme/metabox.php:41
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:280 ../theme/metabox.php:42
+msgid "Show or not the breadcumb"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:288
+msgid "Show Slogan"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:289
+msgid "Enable Slogan in the header"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:294
+#: ../theme/panel/theme-options/typography-and-color/header.php:259
+msgid "Slogan"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:295
+msgid "Show a slogan before the page content"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:305
+msgid "Sub Slogan"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:306
+msgid "Show a sub slogan before the page content"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:322
+msgid "Body Background"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:325
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:94
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:235
+#: ../theme/panel/theme-options/typography-and-color/footer.php:258
+msgid "Background color"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:326
+msgid ""
+"Select the background color of the body (leave empty to use default, defined "
+"in Theme Options -> Colors -> General)."
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:334
+msgid "Background image"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:335
+msgid ""
+"Select the background image (leave empty to use default, defined in Theme "
+"Options -> Colors -> General)."
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:341
+msgid ""
+"Select the repeat mode for the background image (default is defined in Theme "
+"Options -> Colors -> General)."
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:354
+msgid ""
+"Select the attachment for the background image (default is defined in Theme "
+"Options -> Colors -> General)."
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:365
+msgid ""
+"Select the position for the background image (default is defined in Theme "
+"Options -> Colors -> General)."
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:383
+msgid "Container background color for boxed layout"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:384
+msgid ""
+"Select the background color of the container for boxed layout (leave empty "
+"to use default, defined in Theme Options -> Colors -> General)."
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:393
+msgid "Layout"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:396
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:26
+msgid "Sidebars"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:407
+msgid "Google Map"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:410
+#: ../core/lib/yit/layout/panel/yit-layout-panel.php:281
+#: ../core/lib/yit/layout/panel/yit-layout-panel.php:299
+#: ../core/shortcodes/shortcodes.php:490
+#: ../core/yit/walkers/Walker_Nav_Menu_Edit.php:140
+msgid "URL"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel-options.php:411
+msgid "Google map url"
+msgstr ""
+
+#: ../core/lib/yit/layout/panel/yit-layout-panel.php:269
+msgid "Type: "
+msgstr ""
+
+#: ../core/lib/yit/layout/panel/yit-layout-panel.php:285
+#: ../core/lib/yit/layout/panel/yit-layout-panel.php:306
+#: ../core/lib/yit/layout/panel/yit-layout-panel.php:329
+#: ../core/lib/yit/layout/panel/yit-layout-panel.php:340
+msgid "All "
+msgstr ""
+
+#: ../core/lib/yit/layout/panel/yit-layout-panel.php:325
+msgid "URL "
+msgstr ""
+
+#: ../core/lib/yit/layout/yit-layout-options.php:151
+#: ../core/plugin-fw/lib/yit-plugin-panel.php:435
+#: ../core/plugin-fw/lib/yit-plugin-panel.php:436
+msgid "Element updated correctly."
+msgstr ""
+
+#: ../core/lib/yit/layout/yit-layout-options.php:154
+msgid "Any options was saved."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:460
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:574
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:719
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1632
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:461
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:575
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:462
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:576
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1267
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1304
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:463
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:577
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:465
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:579
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1251
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1305
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:466
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:580
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:467
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:581
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:468
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:582
+#, php-format
+msgid "No %s found in Trash"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:625
+#, php-format
+msgctxt "taxonomy general name"
+msgid "%s Categories"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:626
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:627
+msgid "Search Categories"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:628
+msgid "All Categories"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:629
+msgid "Parent Category"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:630
+msgid "Parent Category:"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:631
+msgid "Edit Category"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:632
+msgid "Update Category"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:633
+msgid "Add New Category"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:634
+msgid "New Category Name"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:635
+msgid "Category"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:724 ../theme/shortcodes.php:63
+msgid "Categories"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1042
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1048
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1196
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1202
+#: ../core/plugin-fw/lib/yit-plugin-panel.php:64 ../theme/metabox.php:23
+#: ../theme/metabox.php:202
+msgid "Settings"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1052
+msgid "Layout for this "
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1058
+msgid "Rewrite"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1059
+msgid ""
+"Univocal identification name in the URL for each product (slug from post if "
+"empty)"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1064
+msgid "Label in Singular"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1065
+msgid "Set a label in singular (title of portfolio if empty)"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1070
+msgid "Label in Plural"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1071
+msgid "Set a label in plural (title of portfolio if empty)"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1077
+msgid ""
+"If you want to use categories in the portfolio, set a name for taxonomy. "
+"Name should be a slug (must not contain capital letters nor spaces) and must "
+"not be more than 32 characters long (database structure restriction)."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1082
+msgid "Taxonomy Rewrite"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1083
+msgid "Set univocal name for each category page URL."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1088
+msgid "Single layout"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1089
+msgid "Layout for single page of this portfolio"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1130
+msgid "layout settings"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1222
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1235
+msgid "Quick links"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1475
+#, php-format
+msgid "Show frontend of the %s"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1631
+#, php-format
+msgid "Add %s from images"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-cpt-unlimited.php:1633
+msgid "Add with multiupload"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-plugin-panel-wc.php:295
+msgid "The changes you have made will be lost if you leave this page."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-plugin-panel.php:63
+msgid "Plugin Settings"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-plugin-panel.php:95
+#: ../core/plugin-fw/lib/yit-plugin-subpanel.php:101
+msgid "YIT Plugins"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-plugin-panel.php:292
+#: ../core/plugin-fw/lib/yit-plugin-subpanel.php:142
+#: ../core/plugin-fw/templates/panel/woocommerce/woocommerce-form.php:5
+#: ../core/templates/admin/layout/layout-panel.php:39
+msgid "Save Changes"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-plugin-panel.php:295
+#: ../core/plugin-fw/templates/panel/woocommerce/woocommerce-form.php:8
+msgid ""
+"If you continue with this action, you will reset all options in this page."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-plugin-panel.php:297
+#: ../core/plugin-fw/lib/yit-plugin-subpanel.php:147
+msgid "Reset to Default"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-plugin-panel.php:297
+#: ../core/plugin-fw/lib/yit-plugin-subpanel.php:147
+#: ../core/plugin-fw/templates/panel/woocommerce/woocommerce-form.php:10
+msgid "Are you sure?"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-plugin-panel.php:431
+msgid ""
+"The element you have entered already exists. Please, enter another name."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-plugin-panel.php:432
+msgid "Settings saved"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-plugin-panel.php:433
+msgid "Settings reset"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-plugin-panel.php:434
+msgid "Element deleted correctly."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-plugin-panel.php:437
+msgid "Database imported correctly."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-plugin-panel.php:438
+msgid "An error has occurred during import. Please try again."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-plugin-panel.php:439
+msgid "The added file is not valid."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-plugin-panel.php:440
+msgid "Sorry, import is disabled."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-plugin-panel.php:441
+msgid "Sorting successful."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-plugin-subpanel.php:145
+msgid ""
+"If you continue with this action, you will reset all the options in this "
+"page."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-pointers.php:70
+msgid "Plugins Activated"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-pointers.php:71
+msgid ""
+"From now on, you can find all plugin options in YIT Plugin menu.\n"
+"                                     For each plugin installed, "
+"customization settings will be available as a new entry in YIT Plugin menu."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-pointers.php:73
+#: ../core/plugin-fw/lib/yit-pointers.php:89
+msgid "Discover all our plugins available on:"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-pointers.php:74
+#: ../core/plugin-fw/lib/yit-pointers.php:90
+msgid "and"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-pointers.php:84
+msgid "Plugins Upgraded"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-pointers.php:85
+msgid ""
+"From now on, you can find all options of your plugins in YIT Plugin menu.\n"
+"                                    Any time one of our plugins is updated, "
+"a new entry will be added to this menu.\n"
+"                                    For example, after the update, plugin "
+"options (such as for YITH WooCommerce Wishlist, YITH WooCommerce Ajax "
+"Search, etc.)\n"
+"                                    will be moved from previous location to "
+"YIT Plugin tab."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-upgrade.php:123
+msgid "There is a new version of %plugin_name% available."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-upgrade.php:124
+msgid "View version %latest% details."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-upgrade.php:125
+msgid "Automatic update is unavailable for this plugin,"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-upgrade.php:126
+msgid ""
+"please <a href=\"%activate_link%\">activate</a> your copy of %plugin_name%."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-upgrade.php:127
+#, fuzzy
+msgid "Update now."
+msgstr "Update Basket"
+
+#: ../core/plugin-fw/lib/yit-upgrade.php:230
+msgid "Yithemes Repository"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-upgrade.php:264
+msgid "Invalid URL Provided."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-upgrade.php:277
+msgid "Could not create Temporary file."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-upgrade.php:419
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox "
+"yit-changelog-button\" title=\"%3$s\">View version %4$s details</a>."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-upgrade.php:421
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox "
+"yit-changelog-button\" title=\"%3$s\">View version %4$s details</a>. <em>You "
+"have to activate the plugin on a single site of the network to benefit from "
+"automatic updates.</em>"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-upgrade.php:423
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox "
+"yit-changelog-button\" title=\"%3$s\">View version %4$s details</a>. "
+"<em>Automatic update is unavailable for this plugin, please <a href=\"%5$s\" "
+"title=\"Licence activation\">activate</a> your copy of %6s.</em>"
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-upgrade.php:425
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox "
+"yit-changelog-button\" title=\"%3$s\">View version %4$s details</a> or <a "
+"href=\"%5$s\">update now</a>."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-upgrade.php:498
+msgid "You can't update the plugins for this site."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-upgrade.php:502
+msgid ""
+"You do not have sufficient permissions to update the plugins for this site."
+msgstr ""
+
+#: ../core/plugin-fw/lib/yit-upgrade.php:509
+msgid "Update Plugin"
+msgstr ""
+
+#: ../core/plugin-fw/licence/lib/yit-licence.php:161
+#, php-format
+msgid "%field% field cannot be empty"
+msgstr ""
+
+#: ../core/plugin-fw/licence/lib/yit-licence.php:162
+msgid "%field_1% and %field_2% fields cannot be empty"
+msgstr ""
+
+#: ../core/plugin-fw/licence/lib/yit-licence.php:163
+msgid "Unable to contact the remote server, please try again later. Thanks!"
+msgstr ""
+
+#: ../core/plugin-fw/licence/lib/yit-licence.php:548
+msgid "Invalid Request"
+msgstr ""
+
+#: ../core/plugin-fw/licence/lib/yit-licence.php:549
+msgid "Invalid licence key"
+msgstr ""
+
+#: ../core/plugin-fw/licence/lib/yit-licence.php:550
+msgid "Software has been deactivated"
+msgstr ""
+
+#: ../core/plugin-fw/licence/lib/yit-licence.php:551
+msgid "Maximum number of activations exceeded"
+msgstr ""
+
+#: ../core/plugin-fw/licence/lib/yit-licence.php:552
+msgid "Invalid instance ID"
+msgstr ""
+
+#: ../core/plugin-fw/licence/lib/yit-licence.php:553
+msgid "Invalid security key"
+msgstr ""
+
+#: ../core/plugin-fw/licence/lib/yit-licence.php:554
+msgid "Licence key has expired"
+msgstr ""
+
+#: ../core/plugin-fw/licence/lib/yit-licence.php:555
+msgid "Licence key has been banned"
+msgstr ""
+
+#: ../core/plugin-fw/licence/lib/yit-plugin-licence.php:64
+#: ../core/plugin-fw/licence/lib/yit-plugin-licence.php:65
+#: ../core/plugin-fw/licence/lib/yit-theme-licence.php:64
+#: ../core/plugin-fw/licence/lib/yit-theme-licence.php:65
+#: ../core/plugin-fw/licence/lib/yit-theme-licence.php:107
+#: ../core/plugin-fw/licence/lib/yit-theme-licence.php:108
+msgid "Licence Activation"
+msgstr ""
+
+#: ../core/plugin-fw/licence/lib/yit-theme-licence.php:115
+#: ../core/plugin-fw/licence/lib/yit-theme-licence.php:116
+#, fuzzy, php-format
+msgid "%s"
+msgstr ""
+"Note: Delivery and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:19
+msgid "Yithemes Licence Activation"
+msgstr ""
+
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:23
+msgid ""
+"I cannot find the license key for activating the theme I have bought some "
+"time ago. Where can I find it?"
+msgstr ""
+
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:26
+msgid ""
+"If you have purchased one of our products before 27 January 2015, you can "
+"benefit from support and updates (the services offered with the license)\n"
+"            until 27 January 2016 and you do not have to purchase it again "
+"to get a new license key, because, before this date, your license used to be "
+"activated automatically by our system.\n"
+"            After 27 January 2016, instead, if you want to benefit from "
+"support and updates you have to buy a new license and activate it through "
+"the license key you will be\n"
+"            provided with and that you can find in your YIThemes account, in "
+"section \"My licenses\"."
+msgstr ""
+
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:37
+msgid ""
+"Have you updated your licenses? Have you asked for an extension? Update "
+"information concerning your products."
+msgstr ""
+
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:39
+msgid "Update licence information"
+msgstr ""
+
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:49
+#, fuzzy
+msgid "Products to be activated"
+msgstr "No products in the basket."
+
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:87
+msgid "Activated"
+msgstr ""
+
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:91
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:123
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:147
+msgid "Product Name"
+msgstr ""
+
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:93
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:125
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:149
+msgid "Licence Key"
+msgstr ""
+
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:94
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:150
+msgid "Expires"
+msgstr ""
+
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:95
+msgid "Remaining"
+msgstr ""
+
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:96
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:109
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:151
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:161
+msgid "Renew"
+msgstr ""
+
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:107
+#, php-format
+msgid "%1s out of %2s"
+msgstr ""
+
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:119
+msgid "Banned"
+msgstr ""
+
+#: ../core/plugin-fw/licence/templates/panel/activation/activation-panel.php:143
+msgid "Expired"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/ajax-products.php:23
+msgid "Search for a product"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/categories.php:36
+#: ../core/templates/admin/metaboxes/types/categories.php:35
+msgid "No categories."
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/categories.php:42
+#: ../core/templates/admin/metaboxes/types/categories.php:41
+msgid "+ Add New Category"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:7
+msgid "Text Input"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:8
+msgid "Checkbox"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:9
+msgid "Select"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:10
+msgid "Textarea"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:11
+msgid "Radio Input"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:12
+msgid "Password Field"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:13
+msgid "File Upload"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:47
+#: ../core/shortcodes/shortcodes.php:33 ../core/shortcodes/shortcodes.php:52
+#: ../theme/panel/theme-options/content/blog.php:76
+#: ../theme/panel/theme-options/content/blog.php:104
+#: ../theme/panel/theme-options/content/blog.php:132
+#: ../theme/panel/theme-options/content/blog.php:160
+#: ../theme/panel/theme-options/content/blog.php:244
+#: ../theme/panel/theme-options/content/blog.php:273
+#: ../theme/panel/theme-options/content/blog.php:302
+#: ../theme/panel/theme-options/content/blog.php:331
+#: ../theme/panel/theme-options/content/blog.php:371
+#: ../theme/panel/theme-options/header/settings.php:116
+msgid "Theme Icon"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:48
+#: ../core/shortcodes/shortcodes.php:34 ../core/shortcodes/shortcodes.php:53
+#: ../theme/panel/theme-options/content/blog.php:77
+#: ../theme/panel/theme-options/content/blog.php:105
+#: ../theme/panel/theme-options/content/blog.php:133
+#: ../theme/panel/theme-options/content/blog.php:161
+#: ../theme/panel/theme-options/content/blog.php:245
+#: ../theme/panel/theme-options/content/blog.php:274
+#: ../theme/panel/theme-options/content/blog.php:303
+#: ../theme/panel/theme-options/content/blog.php:332
+#: ../theme/panel/theme-options/content/blog.php:372
+#: ../theme/panel/theme-options/header/settings.php:117
+msgid "Custom Icon"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:49
+#: ../core/plugin-fw/templates/metaboxes/types/responsivesliders.php:24
+#: ../core/shortcodes/shortcodes.php:26 ../core/shortcodes/shortcodes.php:540
+#: ../core/templates/admin/metaboxes/types/responsivesliders.php:23
+#: ../core/templates/admin/type/typography.php:138
+#: ../theme/panel/theme-options/content/blog.php:78
+#: ../theme/panel/theme-options/content/blog.php:106
+#: ../theme/panel/theme-options/content/blog.php:134
+#: ../theme/panel/theme-options/content/blog.php:162
+#: ../theme/panel/theme-options/content/blog.php:246
+#: ../theme/panel/theme-options/content/blog.php:275
+#: ../theme/panel/theme-options/content/blog.php:304
+#: ../theme/panel/theme-options/content/blog.php:333
+#: ../theme/panel/theme-options/content/blog.php:373
+#: ../theme/panel/theme-options/header/settings.php:118
+msgid "None"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:60
+msgid "Add field"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:69
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:261
+#: ../core/plugin-fw/templates/metaboxes/types/customtabs.php:37
+#: ../core/plugin-fw/templates/metaboxes/types/customtabs.php:82
+#: ../core/templates/admin/metaboxes/types/customtabs.php:37
+#: ../core/templates/admin/metaboxes/types/customtabs.php:81
+#: ../core/yit/walkers/Walker_Nav_Menu_Edit.php:257
+msgid "Remove"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:70
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:262
+msgid "Click to toggle"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:77
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:269
+msgid "Title Field"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:81
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:273
+msgid "Insert the title for the field."
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:86
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:278
+msgid "Data Name"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:90
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:282
+msgid ""
+"REQUIRED: Field identification name to be entered into email body. "
+"<strong>Note:</strong>Use only lowercase characters and underscores."
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:95
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:287
+msgid "Type field"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:103
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:295
+msgid "Select the type for this field."
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:108
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:300
+msgid "Checked"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:112
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:304
+msgid "Select this option if you want this field appears as already checked."
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:117
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:309
+msgid "Add options "
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:118
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:310
+msgid "Add option"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:121
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:313
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:436
+msgid "Selected"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:124
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:316
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:436
+msgid "Delete option"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:130
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:322
+msgid "Error Message"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:134
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:326
+msgid "Insert the error message for validation."
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:143
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:335
+msgid "Select this option if it must be required."
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:152
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:344
+msgid "Select this option if the email must be valid."
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:157
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:349
+msgid "Reply To"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:161
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:353
+msgid "Select this if it is the email you can reply to."
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:166
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:358
+#: ../core/shortcodes/shortcodes.php:416
+msgid "Class"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:170
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:362
+msgid ""
+"Insert additional class(es) (separated by commas) for more personalization."
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:175
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:367
+#: ../core/shortcodes/shortcodes.php:41 ../core/shortcodes/shortcodes.php:59
+#: ../core/shortcodes/shortcodes.php:526
+#: ../theme/yit/widgets/yit_text_image.php:54
+msgid "Icon"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:203
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:391
+#: ../core/plugin-fw/templates/metaboxes/types/icon-list.php:69
+#: ../core/plugin-fw/templates/metaboxes/types/select-icon.php:33
+#: ../core/plugin-fw/templates/metaboxes/types/upload.php:21
+#: ../core/plugin-fw/templates/panel/types/upload.php:31
+#: ../core/plugin-fw/templates/panel/woocommerce/woocommerce-upload.php:35
+#: ../core/templates/admin/layout/types/upload.php:32
+#: ../core/templates/admin/metaboxes/types/upload.php:21
+#: ../core/templates/admin/type/icon-list.php:63
+#: ../core/templates/admin/type/select-icon.php:53
+#: ../core/templates/admin/type/upload.php:26
+#: ../core/yit/walkers/Walker_Nav_Menu_Edit.php:229
+msgid "Upload"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:209
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:397
+#: ../core/plugin-fw/templates/metaboxes/types/icon-list.php:75
+#: ../core/plugin-fw/templates/metaboxes/types/select-icon.php:39
+#: ../core/templates/admin/type/icon-list.php:69
+#: ../core/templates/admin/type/select-icon.php:59
+msgid "Image preview"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:217
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:405
+msgid "Insert an icon for more personalization."
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:222
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:409
+#: ../core/shortcodes/shortcodes.php:513
+msgid "Width"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:247
+#: ../core/plugin-fw/templates/metaboxes/types/contactform.php:421
+msgid "Set field length."
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/customtabs.php:28
+#: ../core/templates/admin/metaboxes/types/customtabs.php:28
+msgid "Close all"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/customtabs.php:28
+#: ../core/templates/admin/metaboxes/types/customtabs.php:28
+msgid "Expand all"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/customtabs.php:52
+#: ../core/plugin-fw/templates/metaboxes/types/customtabs.php:95
+#: ../core/templates/admin/metaboxes/types/customtabs.php:52
+#: ../core/templates/admin/metaboxes/types/customtabs.php:94
+msgid "Value"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/customtabs.php:53
+#: ../core/plugin-fw/templates/metaboxes/types/customtabs.php:96
+msgid "Content of the tab. (HTML is supported)"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/customtabs.php:65
+#: ../core/templates/admin/metaboxes/types/customtabs.php:65
+msgid "Add custom product tab"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/customtabs.php:107
+#: ../core/templates/admin/metaboxes/types/customtabs.php:106
+msgid "Do you want to remove the custom tab?"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/icon-list.php:89
+#: ../core/templates/admin/type/icon-list.php:83
+#: ../core/templates/admin/type/select-icon.php:73
+#, php-format
+msgid "(Default: %s <img src=\"%s\"/>)"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/icon-list.php:91
+#: ../core/templates/admin/type/icon-list.php:85
+#, php-format
+msgid "(Default: <i %s></i> )"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/image-gallery.php:40
+#: ../core/plugin-fw/templates/metaboxes/types/image-gallery.php:45
+#: ../core/plugin-fw/templates/metaboxes/types/images.php:38
+#: ../core/plugin-fw/templates/metaboxes/types/images.php:64
+#: ../core/templates/admin/metaboxes/types/images.php:33
+#: ../core/templates/admin/metaboxes/types/images.php:59
+msgid "Delete image"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/image-gallery.php:45
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/image-gallery.php:45
+msgid "Add to gallery"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/image-gallery.php:45
+msgid "Add images"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/image-gallery.php:45
+msgid "Delete"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/images.php:42
+#: ../core/templates/admin/metaboxes/types/images.php:37
+msgid "Upload new images"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/images.php:75
+#: ../core/templates/admin/metaboxes/types/images.php:70
+msgid "Are you sure you want to remove this image?"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/sidebar-layout.php:25
+#: ../core/plugin-fw/templates/metaboxes/types/sidebars.php:36
+#: ../core/templates/admin/layout/types/sidebars.php:33
+#: ../core/templates/admin/metaboxes/types/sidebar-layout.php:24
+msgid "Left sidebar"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/sidebar-layout.php:28
+#: ../core/plugin-fw/templates/metaboxes/types/sidebars.php:42
+#: ../core/plugin-fw/templates/metaboxes/types/sidebars.php:45
+#: ../core/templates/admin/layout/types/sidebars.php:42
+#: ../core/templates/admin/metaboxes/types/sidebar-layout.php:27
+msgid "No sidebar"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/sidebar-layout.php:31
+#: ../core/plugin-fw/templates/metaboxes/types/sidebars.php:39
+#: ../core/templates/admin/layout/types/sidebars.php:36
+#: ../core/templates/admin/metaboxes/types/sidebar-layout.php:30
+msgid "Right sidebar"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/sidebar-layout.php:34
+#: ../core/plugin-fw/templates/metaboxes/types/sidebars.php:53
+#: ../core/plugin-fw/templates/metaboxes/types/sidebars.php:64
+#: ../core/templates/admin/layout/types/sidebars.php:50
+#: ../core/templates/admin/layout/types/sidebars.php:61
+#: ../core/templates/admin/metaboxes/types/sidebar-layout.php:33
+msgid "Choose a sidebar"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/sidebars.php:51
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/sidebars.php:62
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/typography.php:42
+#: ../core/templates/admin/metaboxes/types/typography.php:39
+#: ../core/templates/admin/type/typography.php:86
+msgid "px"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/typography.php:43
+#: ../core/templates/admin/metaboxes/types/typography.php:40
+#: ../core/templates/admin/type/typography.php:87
+msgid "em"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/typography.php:44
+#: ../core/templates/admin/metaboxes/types/typography.php:41
+#: ../core/templates/admin/type/typography.php:88
+msgid "pt"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/typography.php:45
+#: ../core/templates/admin/metaboxes/types/typography.php:42
+#: ../core/templates/admin/type/typography.php:89
+msgid "rem"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/typography.php:59
+#: ../core/plugin-fw/templates/metaboxes/types/typography.php:153
+#: ../core/plugin-fw/templates/metaboxes/types/typography.php:217
+#: ../core/templates/admin/metaboxes/types/typography.php:56
+#: ../core/templates/admin/metaboxes/types/typography.php:148
+#: ../core/templates/admin/metaboxes/types/typography.php:212
+msgid "Web fonts"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/typography.php:71
+#: ../core/templates/admin/metaboxes/types/typography.php:68
+msgid "Google fonts"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/typography.php:96
+#: ../core/templates/admin/metaboxes/types/typography.php:93
+msgid "Regular"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/typography.php:97
+#: ../core/templates/admin/metaboxes/types/typography.php:94
+msgid "Bold"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/typography.php:98
+#: ../core/templates/admin/metaboxes/types/typography.php:95
+msgid "Extra bold"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/typography.php:99
+#: ../core/templates/admin/metaboxes/types/typography.php:96
+msgid "Italic"
+msgstr ""
+
+#: ../core/plugin-fw/templates/metaboxes/types/typography.php:100
+#: ../core/templates/admin/metaboxes/types/typography.php:97
+msgid "Italic bold"
+msgstr ""
+
+#: ../core/plugin-fw/templates/panel/woocommerce/woocommerce-form.php:10
+msgid "Reset Defaults"
+msgstr ""
+
+#: ../core/shortcodes/functions.php:74 ../theme/functions-template.php:461
+msgid "All categories"
+msgstr ""
+
+#: ../core/shortcodes/functions.php:231
+msgid "min"
+msgstr ""
+
+#: ../core/shortcodes/functions.php:231
+msgid "mins"
+msgstr ""
+
+#: ../core/shortcodes/functions.php:235
+msgid "hr"
+msgstr ""
+
+#: ../core/shortcodes/functions.php:235
+msgid "hrs"
+msgstr ""
+
+#: ../core/shortcodes/functions.php:240
+msgid "day"
+msgstr ""
+
+#: ../core/shortcodes/functions.php:240
+msgid "days"
+msgstr ""
+
+#: ../core/shortcodes/functions.php:245
+msgid "month"
+msgstr ""
+
+#: ../core/shortcodes/functions.php:245
+msgid "months"
+msgstr ""
+
+#: ../core/shortcodes/functions.php:250
+msgid "year"
+msgstr ""
+
+#: ../core/shortcodes/functions.php:250
+msgid "years"
+msgstr ""
+
+#: ../core/shortcodes/functions.php:253
+msgid "ago"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:42
+msgid "Shows an icon"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:49
+msgid "Icon type"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:69
+msgid "Icon URL"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:78 ../core/shortcodes/shortcodes.php:532
+msgid "Icon size"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:89 ../core/shortcodes/shortcodes.php:506
+msgid "Color"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:98
+msgid "Circle"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:101 ../core/shortcodes/shortcodes.php:246
+#: ../theme/yit/widgets/recent_comments.php:55
+#: ../theme/yit/widgets/recent_comments.php:63
+#: ../theme/yit/widgets/recent_comments.php:71
+#: ../theme/yit/widgets/recent_posts.php:184
+#: ../theme/yit/widgets/recent_posts.php:199
+#: ../theme/yit/widgets/recent_posts.php:208
+#: ../theme/yit/widgets/recent_posts.php:229
+#: ../theme/yit/widgets/recent_posts.php:238
+msgid "Yes"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:102 ../core/shortcodes/shortcodes.php:247
+#: ../theme/yit/widgets/recent_comments.php:56
+#: ../theme/yit/widgets/recent_comments.php:64
+#: ../theme/yit/widgets/recent_comments.php:72
+#: ../theme/yit/widgets/recent_posts.php:185
+#: ../theme/yit/widgets/recent_posts.php:200
+#: ../theme/yit/widgets/recent_posts.php:209
+#: ../theme/yit/widgets/recent_posts.php:230
+#: ../theme/yit/widgets/recent_posts.php:239
+msgid "No"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:112
+msgid "Circle Size"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:128
+msgid "Print border line"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:129
+msgid "Print a border"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:135 ../core/shortcodes/shortcodes.php:198
+#: ../core/shortcodes/shortcodes.php:252 ../core/shortcodes/shortcodes.php:361
+#: ../core/shortcodes/shortcodes.php:467 ../core/shortcodes/shortcodes.php:552
+#: ../theme/shortcodes.php:70 ../theme/shortcodes.php:132
+msgid "Animation"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:141 ../core/shortcodes/shortcodes.php:204
+#: ../core/shortcodes/shortcodes.php:258 ../core/shortcodes/shortcodes.php:367
+#: ../core/shortcodes/shortcodes.php:473 ../core/shortcodes/shortcodes.php:558
+#: ../theme/shortcodes.php:76 ../theme/shortcodes.php:138
+msgid "Animation Delay"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:143 ../core/shortcodes/shortcodes.php:206
+#: ../core/shortcodes/shortcodes.php:260 ../core/shortcodes/shortcodes.php:369
+#: ../core/shortcodes/shortcodes.php:475 ../core/shortcodes/shortcodes.php:560
+#: ../theme/shortcodes.php:78 ../theme/shortcodes.php:140
+msgid ""
+"This value determines the delay to which the animation starts once it's "
+"visible on the screen."
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:151
+msgid "Twitter"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:152
+msgid "Print a list of last tweets"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:158
+#: ../theme/yit/widgets/last_tweets.php:51
+msgid "Username"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:163
+msgid "Consumer Key"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:168
+msgid "Consumer Secret"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:173
+msgid "Access Token"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:178
+msgid "Access Token Secret"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:183 ../theme/shortcodes.php:57
+msgid "N. of items"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:188 ../core/shortcodes/shortcodes.php:564
+msgid "CSS class"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:193
+msgid "Time"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:214
+msgid "Accordion"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:215
+msgid "Create a accordion content"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:221
+#: ../theme/panel/theme-options/typography-and-color/header.php:1044
+#: ../theme/yit/widgets/last_tweets.php:44
+#: ../theme/yit/widgets/recent_posts.php:176
+#: ../theme/yit/widgets/yit_text_image.php:49
+#: ../theme/yit/widgets/yit_toggle_menu.php:44
+msgid "Title"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:226
+msgid "Opened"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:231
+msgid "Class Icon Closed"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:237
+msgid "Class Icon Opened"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:243 ../core/shortcodes/shortcodes.php:451
+#: ../theme/panel/theme-options/typography-and-color/header.php:1095
+#: ../theme/panel/theme-options/typography-and-color/header.php:1128
+msgid "Border"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:269
+msgid "Size of text"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:270
+msgid "Select a size of text"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:275
+msgid "Pixel"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:280
+msgid "Percent"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:285
+msgid "Em"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:294
+msgid "Print clear"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:295
+msgid "Print a clear, to undo the floating"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:305
+msgid "Logged user"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:306
+msgid ""
+"Show the username of the logged user with some option text before or after."
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:312
+msgid "Text before username"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:313 ../core/shortcodes/shortcodes.php:319
+msgid "HTML allowed."
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:318
+msgid "Text after username"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:324
+msgid "Display"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:327
+msgid "Login"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:329
+msgid "First name"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:330
+msgid "Last name"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:331
+msgid "First and Last name"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:332
+msgid "Last and First name"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:333
+msgid "Display name"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:334
+msgid "ID"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:343
+msgid "List bullet"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:344
+msgid "Show a list with bullet"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:350
+msgid "Type of bullet"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:356
+msgid "Icon color"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:377
+msgid "Highlight"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:378
+msgid "Text highlight"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:384 ../core/shortcodes/shortcodes.php:389
+msgid "Text color"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:398
+msgid "Dropcap"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:399
+msgid "Format content, with big first letter"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:409
+msgid "Box title"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:410
+msgid "Show a title centered with line"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:421
+msgid "Subtitle"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:427
+msgid "Subtitle Font size (px)"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:434
+msgid "Title Font size (px)"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:441
+msgid "Font alignment"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:455
+msgid "Middle"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:456
+msgid "Around"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:457
+msgid "none"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:462
+msgid "Border Color"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:482
+msgid "Button"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:483
+msgid "Show a simple custom button"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:495
+msgid "Target"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:499
+msgid "Blank"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:500
+msgid "Parent"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:507
+msgid "You can find the buttons list"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:516
+msgid "Large"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:517
+msgid "Normal"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:518
+msgid "Small"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:519
+msgid "Mini"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:537
+msgid "Icon Animation"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:541
+msgid "Right to Left"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:542
+msgid "Left to Right"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:543
+msgid "Center to Left"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:544
+msgid "Center to Right"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:545
+msgid "Up to Center"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:546
+msgid "Left to Center"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:547
+msgid "Right to Center"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:573
+msgid "Add space"
+msgstr ""
+
+#: ../core/shortcodes/shortcodes.php:574
+msgid "Print a space"
+msgstr ""
+
+#: ../core/shortcodes/templates/admin/fields/code.php:22
+msgid "This is a special shortcode. Insert shortcode for configure it."
+msgstr ""
+
+#: ../core/shortcodes/templates/admin/fields/icon.php:39
+#: ../core/templates/admin/type/icon.php:38
+#, php-format
+msgid "(Default: <i class=\"fa fa-%s\"></i> %s)"
+msgstr ""
+
+#: ../core/shortcodes/templates/admin/fields/select-mailchimp.php:27
+#: ../core/shortcodes/templates/admin/fields/select.php:31
+msgid "Choose your option"
+msgstr ""
+
+#: ../core/shortcodes/templates/admin/tinymce/lightbox.php:30
+#: ../core/yit/Shortcodes.php:353
+msgid "Add shortcode"
+msgstr ""
+
+#: ../core/shortcodes/templates/admin/tinymce/lightbox.php:64
+#: ../core/shortcodes/templates/admin/tinymce/lightbox.php:65
+msgid "Filter Shortcodes"
+msgstr ""
+
+#: ../core/shortcodes/templates/admin/tinymce/lightbox.php:69
+msgid "Back to shortcodes list"
+msgstr ""
+
+#: ../core/shortcodes/templates/admin/tinymce/lightbox.php:131
+#: ../core/shortcodes/templates/admin/tinymce/lightbox.php:132
+msgid "Filter "
+msgstr ""
+
+#: ../core/shortcodes/templates/shortcodes/accordion.php:23
+#: ../core/shortcodes/templates/shortcodes/toggle.php:23
+#: ../theme/assets.php:187
+msgid "Close"
+msgstr ""
+
+#: ../core/shortcodes/templates/shortcodes/accordion.php:27
+#: ../core/shortcodes/templates/shortcodes/toggle.php:27
+msgid "Open"
+msgstr ""
+
+#: ../core/templates/admin/editor/editor.php:15
+msgid "File edited successfully."
+msgstr ""
+
+#: ../core/templates/admin/editor/editor.php:17
+msgid "An error occurred while saving the file."
+msgstr ""
+
+#: ../core/templates/admin/editor/editor.php:22
+#: ../core/yit/panel/Editor.php:37 ../core/yit/panel/Editor.php:38
+msgid "Custom Style"
+msgstr ""
+
+#: ../core/templates/admin/editor/editor.php:46
+msgid "Caution:"
+msgstr ""
+
+#: ../core/templates/admin/editor/editor.php:47
+#, php-format
+msgid ""
+"This is a file in your current parent theme. It's highly recommended to "
+"create a <strong>%s</strong> file in your child theme folder."
+msgstr ""
+
+#: ../core/templates/admin/editor/editor.php:51
+#, fuzzy
+msgid "Update File"
+msgstr "Update Basket"
+
+#: ../core/templates/admin/editor/editor.php:53
+msgid ""
+"You need to make this file writable before you can save your changes. See <a "
+"href=\"http://codex.wordpress.org/Changing_File_Permissions\">the Codex</a> "
+"for more information."
+msgstr ""
+
+#: ../core/templates/admin/layout/accordion-item.php:10
+msgid "All pages"
+msgstr ""
+
+#: ../core/templates/admin/layout/accordion-item.php:66
+msgid "No items"
+msgstr ""
+
+#: ../core/templates/admin/layout/accordion-item.php:75
+msgid "No items."
+msgstr ""
+
+#: ../core/templates/admin/layout/panel.php:2
+msgid "Layout Settings"
+msgstr ""
+
+#: ../core/templates/admin/layout/panel.php:13
+msgid ""
+"Choose a page from the right sidebar, to edit settings for Header, SEO, "
+"Layout ..."
+msgstr ""
+
+#: ../core/templates/admin/layout/types/sidebars.php:39
+msgid "Double sidebar"
+msgstr ""
+
+#: ../core/templates/admin/layout/types/sidebars.php:48
+msgid "Sidebar Left"
+msgstr ""
+
+#: ../core/templates/admin/layout/types/sidebars.php:59
+msgid "Sidebar Right"
+msgstr ""
+
+#: ../core/templates/admin/metaboxes/types/customtabs.php:53
+#: ../core/templates/admin/metaboxes/types/customtabs.php:95
+msgid "The content of the tab. (HTML is supported)"
+msgstr ""
+
+#: ../core/templates/admin/metaboxes/types/sidebar-layout.php:27
+msgid "No sideabr"
+msgstr ""
+
+#: ../core/templates/admin/panel/footer.php:12
+#: ../core/templates/admin/panel/form.php:24
+msgid "Save options"
+msgstr ""
+
+#: ../core/templates/admin/panel/header.php:54
+#, php-format
+msgid ""
+"<strong>Need support?</strong> View the <a href=\"%s\">documentation</a> "
+msgstr ""
+
+#: ../core/templates/admin/panel/header.php:55
+#, php-format
+msgid ""
+"or submit a ticket in our <a href=\"%s\" title=\"Support platform\">support "
+"platform</a>"
+msgstr ""
+
+#: ../core/templates/admin/panel/header.php:56
+msgid "Theme Changelog"
+msgstr ""
+
+#: ../core/templates/admin/script-editor/script-editor.php:12
+msgid "Scripts edited successfully."
+msgstr ""
+
+#: ../core/templates/admin/script-editor/script-editor.php:14
+msgid "An error occurred while saving the scripts."
+msgstr ""
+
+#: ../core/templates/admin/script-editor/script-editor.php:18
+#: ../core/yit/panel/Script_Editor.php:38
+#: ../core/yit/panel/Script_Editor.php:39
+msgid "Custom Script"
+msgstr ""
+
+#: ../core/templates/admin/script-editor/script-editor.php:21
+msgid "Here you can write all your custom Javascript"
+msgstr ""
+
+#: ../core/templates/admin/script-editor/script-editor.php:22
+msgid "Add jQuery Closure"
+msgstr ""
+
+#: ../core/templates/admin/script-editor/script-editor.php:32
+#, fuzzy
+msgid "Update"
+msgstr "Update Basket"
+
+#: ../core/templates/admin/type/bgpreview.php:24
+msgid "Select a background"
+msgstr ""
+
+#: ../core/templates/admin/type/bgpreview.php:45
+#: ../core/templates/admin/type/checkbox.php:29
+#: ../core/templates/admin/type/number.php:28
+#: ../core/templates/admin/type/onoff.php:29
+#: ../core/templates/admin/type/select.php:57
+#: ../core/templates/admin/type/slider.php:39
+#: ../core/templates/admin/type/typography.php:66
+#, php-format
+msgid "(Default: %s)"
+msgstr ""
+
+#: ../core/templates/admin/type/bgpreview.php:46
+#, php-format
+msgid ""
+"You can add more backgrounds to this list just by adding the images within "
+"the folder <code>%s/images/backgrounds/</code>"
+msgstr ""
+
+#: ../core/templates/admin/type/checkbox.php:29
+#: ../core/templates/admin/type/onoff.php:29
+msgid "On"
+msgstr ""
+
+#: ../core/templates/admin/type/checkbox.php:29
+#: ../core/templates/admin/type/onoff.php:29
+msgid "Off"
+msgstr ""
+
+#: ../core/templates/admin/type/colorpicker.php:35
+#: ../core/templates/admin/type/colorpicker.php:49
+msgid " Opacity:"
+msgstr ""
+
+#: ../core/templates/admin/type/colorpicker.php:59
+msgid "Change all"
+msgstr ""
+
+#: ../core/templates/admin/type/colorpicker.php:72
+#, php-format
+msgid "<br />(Default: color: %s - opacity: %s)"
+msgstr ""
+
+#: ../core/templates/admin/type/colorpicker.php:74
+#, php-format
+msgid "<br />(Default: %s)"
+msgstr ""
+
+#: ../core/templates/admin/type/colorpicker.php:82
+#, php-format
+msgid "<br />(Default %s: color: %s - opacity: %s)"
+msgstr ""
+
+#: ../core/templates/admin/type/colorpicker.php:84
+#, php-format
+msgid "<br />(Default %s: %s)"
+msgstr ""
+
+#: ../core/templates/admin/type/select-icon.php:75
+#, php-format
+msgid "(Default: %s <i class=\"fa fa-%s\"></i> %s)"
+msgstr ""
+
+#: ../core/templates/admin/type/selectskins.php:55
+msgid "Change demo"
+msgstr ""
+
+#: ../core/templates/admin/type/selectskins.php:56
+msgid "Reset demo"
+msgstr ""
+
+#: ../core/templates/admin/type/typography.php:57
+#: ../core/templates/admin/type/typography.php:101
+msgid "Default Theme Font"
+msgstr ""
+
+#: ../core/templates/admin/type/typography.php:139
+msgid "Lowercase"
+msgstr ""
+
+#: ../core/templates/admin/type/typography.php:140
+msgid "Uppercase"
+msgstr ""
+
+#: ../core/templates/admin/type/typography.php:141
+msgid "Capitalize"
+msgstr ""
+
+#: ../core/templates/admin/type/typography.php:156
+msgid "Click to preview"
+msgstr ""
+
+#: ../core/yit/Bootstrap.php:117
+msgid ""
+"You are using an older version of Wordpress.\n"
+"\t\t\t\t\t\t\t   This theme should not work properly.\n"
+"\t\t\t\t\t\t\t   Please update your <strong>Wordpress</strong> version to "
+"the\n"
+"\t\t\t\t\t\t\t   latest as soon as possible."
+msgstr ""
+
+#: ../core/yit/Dashboard.php:57
+msgid "Our latest themes"
+msgstr ""
+
+#: ../core/yit/Dashboard.php:58
+msgid "News from the YIT Blog"
+msgstr ""
+
+#: ../core/yit/Free.php:38 ../core/yit/Free.php:39
+msgid "Premium version"
+msgstr ""
+
+#: ../core/yit/Free.php:46 ../core/yit/Free.php:47
+msgid "Buy Themes"
+msgstr ""
+
+#: ../core/yit/Options.php:274
+msgid "Options Saved!"
+msgstr ""
+
+#: ../core/yit/Panel.php:238
+msgid "Loading..."
+msgstr ""
+
+#: ../core/yit/Plugins.php:105
+#, php-format
+msgid " <a href='%s' class='how_to_update'>Learn how to update</a>"
+msgstr ""
+
+#: ../core/yit/Request.php:244
+msgid "You do not have permission to do this action."
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:109
+msgid "Shortcodes"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:110
+msgid "Section"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:111
+msgid "Post Type"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:115
+msgid "Shop"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:353
+msgid "Add Shortcode"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:541 ../core/yit/Shortcodes.php:567
+msgid "Insert shortcode"
+msgstr ""
+
+#: ../core/yit/panel/Editor.php:59 ../core/yit/panel/Script_Editor.php:63
+msgid "You do not have sufficient permissions to edit templates for this site."
+msgstr ""
+
+#: ../core/yit/panel/Editor.php:64
+msgid ""
+"The file does not exist or you do not have sufficient permissions to edit "
+"this file."
+msgstr ""
+
+#: ../core/yit/panel/ThemeOptions.php:39 ../core/yit/panel/ThemeOptions.php:40
+msgid "Theme Options"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: ../core/yit/walkers/Walker_Nav_Menu_Edit.php:78
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: ../core/yit/walkers/Walker_Nav_Menu_Edit.php:82
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../core/yit/walkers/Walker_Nav_Menu_Edit.php:131
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../core/yit/walkers/Walker_Nav_Menu_Edit.php:147
+msgid "Navigation Label"
+msgstr ""
+
+#: ../core/yit/walkers/Walker_Nav_Menu_Edit.php:153
+msgid "Title Attribute"
+msgstr ""
+
+#: ../core/yit/walkers/Walker_Nav_Menu_Edit.php:160
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../core/yit/walkers/Walker_Nav_Menu_Edit.php:165
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../core/yit/walkers/Walker_Nav_Menu_Edit.php:172
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../core/yit/walkers/Walker_Nav_Menu_Edit.php:178
+msgid "Description"
+msgstr ""
+
+#: ../core/yit/walkers/Walker_Nav_Menu_Edit.php:180
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../core/yit/walkers/Walker_Nav_Menu_Edit.php:192
+msgid "Customize menu"
+msgstr ""
+
+#: ../core/yit/walkers/Walker_Nav_Menu_Edit.php:242
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../core/yit/walkers/Walker_Nav_Menu_Edit.php:258
+msgid "Cancel"
+msgstr ""
+
+#: ../theme/assets.php:28 ../theme/assets.php:186
+msgid "Navigate to..."
+msgstr ""
+
+#: ../theme/assets.php:29
+#, fuzzy
+msgid "added to cart"
+msgstr "Basket Subtotal"
+
+#: ../theme/assets.php:30
+msgid "added"
+msgstr ""
+
+#: ../theme/functions-template.php:419
+msgid "Black"
+msgstr ""
+
+#: ../theme/functions-template.php:420
+msgid "Alternative"
+msgstr ""
+
+#: ../theme/functions-template.php:421
+msgid "White"
+msgstr ""
+
+#: ../theme/functions-template.php:436
+#: ../theme/templates/blog/small/markup.php:69
+#: ../theme/templates/blog/small/single.php:84
+msgid "Edit"
+msgstr ""
+
+#: ../theme/functions-template.php:481
+msgid "Rating Star"
+msgstr ""
+
+#: ../theme/functions-template.php:482
+msgid "Insert the rating"
+msgstr ""
+
+#: ../theme/functions-template.php:570
+msgid "Reply"
+msgstr ""
+
+#: ../theme/functions-template.php:620
+msgid "Back to top"
+msgstr ""
+
+#: ../theme/functions-template.php:754
+msgid "Home Page"
+msgstr ""
+
+#: ../theme/functions-template.php:784
+#, php-format
+msgid "Archive by category \"%s\""
+msgstr ""
+
+#: ../theme/functions-template.php:844
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: ../theme/functions-template.php:846
+#, php-format
+msgid "Posts tagged \"%s\""
+msgstr ""
+
+#: ../theme/functions-template.php:851
+#, php-format
+msgid "Articles posted by %s"
+msgstr ""
+
+#: ../theme/functions-template.php:853 ../theme/templates/404/404.php:21
+msgid "Error 404"
+msgstr ""
+
+#: ../theme/functions-template.php:856
+msgid "Home"
+msgstr ""
+
+#: ../theme/functions-template.php:865
+msgid "Page"
+msgstr ""
+
+#: ../theme/functions-theme.php:115
+msgid "Main Navigation"
+msgstr ""
+
+#: ../theme/functions-theme.php:116
+msgid "Mobile Navigation"
+msgstr ""
+
+#: ../theme/functions-theme.php:117
+msgid "Copyright Right"
+msgstr ""
+
+#: ../theme/functions-theme.php:118
+msgid "Copyright Left"
+msgstr ""
+
+#: ../theme/functions-theme.php:119
+msgid "Copyright Centered"
+msgstr ""
+
+#: ../theme/functions-theme.php:125
+#, php-format
+msgid "The widget area #%d used in Footer section"
+msgstr ""
+
+#: ../theme/functions-theme.php:234
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../theme/functions-theme.php:411
+msgid "VIEW NEXT POST"
+msgstr ""
+
+#: ../theme/metabox.php:17
+msgid "Page settings"
+msgstr ""
+
+#: ../theme/metabox.php:26 ../theme/metabox.php:205
+msgid "Active Page Options"
+msgstr ""
+
+#: ../theme/metabox.php:51 ../theme/metabox.php:211
+msgid "Sidebar"
+msgstr ""
+
+#: ../theme/metabox.php:196
+msgid "Post settings"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:26
+msgid "List Posts"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:34
+msgid "Blog Page"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:34
+msgid "List cat. sidebar"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:35
+msgid "Exclude categories"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:36
+msgid "Select witch categories you want exlude from blog."
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:42
+#: ../theme/panel/theme-options/content/blog.php:210
+msgid "Show featured image"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:43
+#: ../theme/panel/theme-options/content/blog.php:211
+msgid "Select if you want to show the featured image of the post. "
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:51
+#: ../theme/panel/theme-options/content/blog.php:219
+msgid "Select if you want to show the title of the post."
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:58
+#: ../theme/panel/theme-options/content/blog.php:226
+#, fuzzy
+msgid "Show date"
+msgstr "Add to basket"
+
+#: ../theme/panel/theme-options/content/blog.php:59
+#: ../theme/panel/theme-options/content/blog.php:227
+msgid "Select if you want to show the date of the post."
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:66
+#: ../theme/panel/theme-options/content/blog.php:234
+#: ../theme/yit/widgets/recent_posts.php:236
+msgid "Show author"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:67
+#: ../theme/panel/theme-options/content/blog.php:235
+msgid "Select if you want to show the author of the post."
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:82
+#: ../theme/panel/theme-options/content/blog.php:250
+msgid "Show author icon"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:83
+#: ../theme/panel/theme-options/content/blog.php:251
+msgid "Select the icon for post author."
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:94
+#: ../theme/panel/theme-options/content/blog.php:321
+msgid "Show comments"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:95
+#: ../theme/panel/theme-options/content/blog.php:322
+msgid "Select if you want to show the comments of the post."
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:110
+#: ../theme/panel/theme-options/content/blog.php:337
+#: ../theme/panel/theme-options/content/blog.php:377
+msgid "Show comments icon"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:111
+msgid "Select the icon for post comments."
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:122
+#: ../theme/panel/theme-options/content/blog.php:291
+#, fuzzy
+msgid "Show tags"
+msgstr "Add to basket"
+
+#: ../theme/panel/theme-options/content/blog.php:123
+#: ../theme/panel/theme-options/content/blog.php:292
+msgid "Select if you want to show the tags of the post."
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:138
+#: ../theme/panel/theme-options/content/blog.php:308
+msgid "Show tags icon"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:139
+msgid "Select the icon for post tags."
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:150
+#: ../theme/panel/theme-options/content/blog.php:262
+msgid "Show categories"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:151
+#: ../theme/panel/theme-options/content/blog.php:263
+msgid "Select if you want to show the categories of the post."
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:166
+#: ../theme/panel/theme-options/content/blog.php:279
+msgid "Show categories icon"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:167
+#: ../theme/panel/theme-options/content/blog.php:280
+msgid "Select the icon for post categories."
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:178
+msgid "Show post format icon"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:179
+msgid "Select if you want to show the post format icon."
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:186
+msgid "Show \"Read More\" button"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:187
+msgid "Select if you want to show the \"Read More\" button."
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:194
+msgid "Read More text"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:195
+msgid "Write what you want to show on more link."
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:202
+msgid "Single Post"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:309
+msgid "Select the icon for post tags, in single."
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:338
+#: ../theme/panel/theme-options/content/blog.php:378
+msgid "Select the icon for post comments, in single."
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:349
+msgid "Show \"Share\""
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:350
+msgid "Select if you want to show the \"Share\"."
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:357
+msgid "Show \"Share\" text"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:358
+msgid "Select the \"Share\" text."
+msgstr ""
+
+#: ../theme/panel/theme-options/content/blog.php:359
+msgid "LOVE IT, SHARE IT"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/pages.php:26
+msgid "404"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/pages.php:33
+msgid "Custom 404 error page"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/pages.php:34
+msgid "Activate/Deactivate the custom 404 Error page. "
+msgstr ""
+
+#: ../theme/panel/theme-options/content/pages.php:42
+msgid "Text to show"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/pages.php:43
+msgid "Text shown if a user request a page that doesn't exists."
+msgstr ""
+
+#: ../theme/panel/theme-options/content/pages.php:51
+msgid "Custom image"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/pages.php:52
+msgid "An image shown if a user request a page that doesn't exists."
+msgstr ""
+
+#: ../theme/panel/theme-options/content/pages.php:60
+msgid "Hide header and footer"
+msgstr ""
+
+#: ../theme/panel/theme-options/content/pages.php:61
+msgid "Say if you want to hide the header and footer in the 404 page. "
+msgstr ""
+
+#: ../theme/panel/theme-options/footer/settings.php:26
+msgid "Footer Settings"
+msgstr ""
+
+#: ../theme/panel/theme-options/footer/settings.php:34
+msgid "Two Columns Copyright"
+msgstr ""
+
+#: ../theme/panel/theme-options/footer/settings.php:35
+msgid "Centered Copyright"
+msgstr ""
+
+#: ../theme/panel/theme-options/footer/settings.php:37
+msgid "Footer type"
+msgstr ""
+
+#: ../theme/panel/theme-options/footer/settings.php:38
+msgid "Select the footer layout for the theme."
+msgstr ""
+
+#: ../theme/panel/theme-options/footer/settings.php:46
+msgid "Footer copyright text Left"
+msgstr ""
+
+#: ../theme/panel/theme-options/footer/settings.php:47
+msgid ""
+"Enter text used in the left side of the footer. It can be HTML. NB: not "
+"figured on \"centered footer\""
+msgstr ""
+
+#: ../theme/panel/theme-options/footer/settings.php:58
+msgid "Footer centered text"
+msgstr ""
+
+#: ../theme/panel/theme-options/footer/settings.php:59
+msgid "Enter text used in centered footer. It can be HTML."
+msgstr ""
+
+#: ../theme/panel/theme-options/footer/settings.php:70
+msgid "Footer copyright text Right"
+msgstr ""
+
+#: ../theme/panel/theme-options/footer/settings.php:71
+msgid ""
+"Enter text used in the right side of the footer. It can be HTML. NB: not "
+"figured on \"centered footer\""
+msgstr ""
+
+#: ../theme/panel/theme-options/general/google-font-subsets.php:25
+#: ../theme/panel/theme-options/general/google-font-subsets.php:32
+msgid "Google Fonts Subsets"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/google-font-subsets.php:33
+msgid ""
+"Using many subsets can slow down your webpage, so only select the subsets "
+"that you actually need on your webpage. Make sure the fonts you're using "
+"supports the subsets chosen. More info on <a href=\"http://www.google.com/"
+"webfonts\">Google Web Fonts</a>."
+msgstr ""
+
+#: ../theme/panel/theme-options/general/google-font-subsets.php:36
+msgid "Latin"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/google-font-subsets.php:37
+msgid "Latin Extended"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/google-font-subsets.php:38
+msgid "Cyrillic"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/google-font-subsets.php:39
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/google-font-subsets.php:40
+msgid "Greek"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/google-font-subsets.php:41
+msgid "Greek Extended"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/google-font-subsets.php:42
+msgid "Khmer"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/google-font-subsets.php:43
+msgid "Vietnamese"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/integration.php:26
+msgid "Twitter API"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/integration.php:33
+msgid "Twitter username"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/integration.php:34
+msgid "Enter Twitter username"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/integration.php:41
+msgid "Twitter consumer key"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/integration.php:42
+msgid "Enter Twitter consumer key"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/integration.php:49
+msgid "Twitter consumer secret"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/integration.php:50
+msgid "Enter Twitter consumer secret"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/integration.php:57
+msgid "Twitter access token"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/integration.php:58
+msgid "Enter Twitter access token"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/integration.php:65
+msgid "Twitter access token secret"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/integration.php:66
+msgid "Enter Twitter access token secret"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/integration.php:72
+#: ../theme/panel/theme-options/general/settings.php:96
+msgid "Open Graph"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/integration.php:79
+#: ../theme/panel/theme-options/general/settings.php:103
+msgid "Enable open graph"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/integration.php:80
+#: ../theme/panel/theme-options/general/settings.php:104
+msgid "Enable open graph or use your own plugin."
+msgstr ""
+
+#: ../theme/panel/theme-options/general/settings.php:26
+#: ../theme/panel/theme-options/typography-and-color/footer.php:27
+#: ../theme/panel/theme-options/typography-and-color/general.php:26
+msgid "General Settings"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/settings.php:34
+msgid "Stretched"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/settings.php:35
+msgid "Boxed"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/settings.php:37
+msgid "Layout Type"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/settings.php:38
+msgid "Choose the layout type."
+msgstr ""
+
+#: ../theme/panel/theme-options/general/settings.php:46
+msgid "Remove script version"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/settings.php:47
+msgid ""
+"This is an advanced setting that allows you remove query strings from static "
+"contents (eg. the ?v=3.5.1 string from CSS and JS files). <a href=\"http://"
+"gtmetrix.com/remove-query-strings-from-static-resources.html\">More info</a>"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/settings.php:54
+msgid "Show \"Back to Top\" button"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/settings.php:55
+msgid "Enable this option to show the \"Back to Top\" button in all pages"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/settings.php:62
+msgid "Enable responsive layout"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/settings.php:63
+msgid "Enable this option to make pages to adapt to screen dimensions"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/settings.php:70
+msgid "Favicon"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/settings.php:71
+msgid ""
+"A favicon is a 16x16 pixel icon that represents your site; paste the URL to "
+"a icon image that you want to use as the image."
+msgstr ""
+
+#: ../theme/panel/theme-options/general/settings.php:79
+msgid "Disable WP admin bar"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/settings.php:80
+msgid ""
+"Enable this option to disable the wordpress admin bar in frontend for user "
+"are logged in"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/settings.php:88
+msgid "Disable Comments on Pages"
+msgstr ""
+
+#: ../theme/panel/theme-options/general/settings.php:89
+msgid ""
+"Set this option to on for disable the wordpress comments on Pages. (Not "
+"include blog posts)"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:26
+msgid "General"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:33
+msgid "Header Skin"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:34
+msgid "Select the skin for the header"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:36
+msgid "Skin1 - Logo, menu, search, cart in one row"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:37
+msgid "Skin2 - Menu under the logo"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:47
+msgid "Header Sticky"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:48
+msgid "Want to use a stycky header?"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:57
+msgid "Logo"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:66
+msgid "Custom logo"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:67
+msgid "Want to use a custom image as logo?"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:75
+msgid "Custom logo image"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:76
+msgid "Select the custom image to use as logo"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:87
+msgid "Logo Tagline"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:88
+msgid "Specify if you want the tagline to show below the logo. "
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:95
+msgid "Show logo Tagline in mobile"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:96
+msgid ""
+"Specify if you want the tagline to show below the logo on mobile devices. "
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:107
+msgid "Search mini"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:122
+msgid "Select search mini icon"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:123
+msgid "Select the icon for search mini"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:136
+#: ../theme/panel/theme-options/typography-and-color/header.php:432
+#: ../theme/panel/theme-options/typography-and-color/header.php:435
+#: ../theme/panel/theme-options/typography-and-color/header.php:500
+#: ../theme/panel/theme-options/typography-and-color/header.php:670
+#: ../theme/panel/theme-options/typography-and-color/header.php:673
+#: ../theme/panel/theme-options/typography-and-color/header.php:738
+#: ../theme/panel/theme-options/typography-and-color/header.php:978
+#: ../theme/panel/theme-options/typography-and-color/html-tags.php:34
+#: ../theme/panel/theme-options/typography-and-color/html-tags.php:37
+msgid "Links"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:137
+#: ../theme/panel/theme-options/typography-and-color/header.php:433
+#: ../theme/panel/theme-options/typography-and-color/header.php:501
+#: ../theme/panel/theme-options/typography-and-color/header.php:671
+#: ../theme/panel/theme-options/typography-and-color/header.php:739
+#: ../theme/panel/theme-options/typography-and-color/header.php:979
+#: ../theme/panel/theme-options/typography-and-color/html-tags.php:35
+msgid "Links hover"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:139
+msgid "Search mini icon color"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/settings.php:140
+msgid "Select the type to use for the icon in search mini."
+msgstr ""
+
+#: ../theme/panel/theme-options/header/topbar-and-infobar.php:26
+#: ../theme/panel/theme-options/typography-and-color/header.php:360
+msgid "Topbar"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/topbar-and-infobar.php:33
+msgid "Show Top Bar"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/topbar-and-infobar.php:34
+msgid "Select if you want to show the Top Bar above the header. "
+msgstr ""
+
+#: ../theme/panel/theme-options/header/topbar-and-infobar.php:42
+#: ../theme/panel/theme-options/typography-and-color/header.php:544
+msgid "Infobar"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/topbar-and-infobar.php:49
+msgid "Show Info Bar"
+msgstr ""
+
+#: ../theme/panel/theme-options/header/topbar-and-infobar.php:50
+msgid "Select if you want to show the Info Bar above the header. "
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:26
+msgid "Buttons Flat"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:33
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:178
+msgid "Buttons Typography"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:34
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:179
+msgid "Select the font, color and size for buttons text."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:71
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:214
+msgid "Buttons color hover"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:72
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:215
+msgid "Select a text color hover for the buttons of all pages."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:95
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:236
+msgid "Background hover color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:97
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:241
+msgid "Buttons background color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:98
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:242
+msgid "Select a color for the buttons background of all pages."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:138
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:279
+msgid "Border color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:139
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:280
+msgid "Border hover color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:141
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:286
+msgid "Buttons border color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:142
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:287
+msgid "Select a color for the buttons border of all pages."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/buttons.php:171
+msgid "Buttons Alternative"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/color-scheme.php:26
+msgid "Main general color scheme"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/color-scheme.php:27
+msgid "Set the different colors shades for the main theme's color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/color-scheme.php:33
+msgid "Shade 1"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/color-scheme.php:34
+msgid "Set the first shade of main color."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/color-scheme.php:50
+msgid "Shade 2"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/color-scheme.php:51
+msgid "Set the second shade of main color."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/color-scheme.php:66
+msgid "General Background Color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/color-scheme.php:67
+msgid "Set the general background color."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/color-scheme.php:86
+msgid "General Border Color Style 1"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/color-scheme.php:87
+#: ../theme/panel/theme-options/typography-and-color/color-scheme.php:119
+msgid "Select the color used in the theme for the border"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/color-scheme.php:118
+msgid "General Border Color Style 2"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/color-scheme.php:146
+msgid "General Icons Color 1"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/color-scheme.php:147
+msgid "Select the color used in the theme for the theme icons"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:33
+msgid "Custom 404 page general font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:34
+#: ../theme/panel/theme-options/typography-and-color/footer.php:35
+#: ../theme/panel/theme-options/typography-and-color/footer.php:97
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:34
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:70
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:99
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:128
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:157
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:192
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:223
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:259
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:290
+msgid "Choose the font type, size and color."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:63
+#: ../theme/shortcodes.php:86
+msgid "Blog"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:70
+msgid "Blog page title font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:71
+msgid "Choose the font type, size, text transform and align."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:99
+#: ../theme/panel/theme-options/typography-and-color/content.php:106
+msgid "Title Color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:100
+msgid "Title Color Hover"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:107
+msgid ""
+"Select the colors to use for the links title in normal state and on hover."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:137
+msgid "Meta info box for small layout"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:138
+msgid "Choose the font type, size and color for meta info box on small layout."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:169
+msgid "Meta Link"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:170
+msgid "Meta Link Hover"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:176
+msgid "Meta Links"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:177
+#: ../theme/panel/theme-options/typography-and-color/html-tags.php:38
+msgid "Select the colors to use for the links in normal state and on hover."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:204
+#: ../theme/templates/shortcodes/blog_section.php:84
+msgid "Comments"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:211
+msgid "Comments Link font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:212
+#: ../theme/panel/theme-options/typography-and-color/content.php:247
+msgid "the font type, size, text transform and align."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:239
+msgid "Pagination"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:246
+msgid "Pagination font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:273
+#: ../theme/panel/theme-options/typography-and-color/content.php:311
+msgid "Normal Color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:274
+#: ../theme/panel/theme-options/typography-and-color/content.php:312
+msgid "Hover Color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:275
+#: ../theme/panel/theme-options/typography-and-color/content.php:313
+msgid "Selected Color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:277
+msgid "Pagination Number Color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:278
+#: ../theme/panel/theme-options/typography-and-color/content.php:316
+msgid "Select the colors to use for the pagination links."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/content.php:315
+msgid "Pagination Background Color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:34
+msgid "Copyright general font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:65
+msgid "Link"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:66
+msgid "Link hover"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:68
+msgid "Copyright link color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:69
+msgid "Select a text color for the link of the footer."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:96
+msgid "Widget title font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:126
+msgid "Custom Background"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:133
+msgid "Footer background color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:134
+msgid "Select the color to use as background on your page footer"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:149
+msgid "Footer background image"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:150
+msgid "Select the image to use as background on your page footer"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:169
+msgid "Select the repeat mode for the background image of footer."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:183
+#: ../theme/panel/theme-options/typography-and-color/general.php:178
+#: ../theme/panel/theme-options/typography-and-color/header.php:101
+#: ../theme/panel/theme-options/typography-and-color/header.php:632
+msgid "Top Left"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:184
+#: ../theme/panel/theme-options/typography-and-color/general.php:179
+#: ../theme/panel/theme-options/typography-and-color/header.php:102
+#: ../theme/panel/theme-options/typography-and-color/header.php:633
+msgid "Top Center"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:185
+#: ../theme/panel/theme-options/typography-and-color/general.php:180
+#: ../theme/panel/theme-options/typography-and-color/header.php:103
+#: ../theme/panel/theme-options/typography-and-color/header.php:634
+msgid "Top Right"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:186
+#: ../theme/panel/theme-options/typography-and-color/general.php:181
+#: ../theme/panel/theme-options/typography-and-color/header.php:104
+#: ../theme/panel/theme-options/typography-and-color/header.php:635
+msgid "Bottom Left"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:187
+#: ../theme/panel/theme-options/typography-and-color/general.php:182
+#: ../theme/panel/theme-options/typography-and-color/header.php:105
+#: ../theme/panel/theme-options/typography-and-color/header.php:636
+msgid "Bottom Center"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:188
+#: ../theme/panel/theme-options/typography-and-color/general.php:183
+#: ../theme/panel/theme-options/typography-and-color/header.php:106
+#: ../theme/panel/theme-options/typography-and-color/header.php:637
+msgid "Bottom Right"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:191
+msgid "Select the position for the background image of footer."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:208
+msgid "Select the attachment for the background image of footer."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:220
+msgid "Back to Top"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:227
+msgid "Back to top Typography"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:228
+msgid "Select the font, color and size for back to top text."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:259
+msgid "Background color hover"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:261
+msgid "Back to Top Background Color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/footer.php:262
+msgid "Select the color to use for the background in back to top button."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/general.php:33
+msgid "Website title typography"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/general.php:34
+msgid "Select the font used in the theme for the titles"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/general.php:53
+msgid "Website paragraph typography"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/general.php:54
+msgid "Select the font used in the theme for the paragraphs"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/general.php:73
+msgid "Website title highlight color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/general.php:74
+msgid "Select the color used in the theme for the highlighted titles"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/general.php:90
+msgid "Special font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/general.php:91
+msgid "Select the type to use for the special font."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/general.php:121
+msgid "Background and Colors"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/general.php:128
+msgid "Custom background"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/general.php:129
+msgid "Select a background for the body of all pages."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/general.php:138
+msgid "Background custom image"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/general.php:139
+msgid "Select a custom image, if you have set \"Custom\" in the above option"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/general.php:217
+msgid "Background color for container in boxed layout"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/general.php:218
+msgid ""
+"Select a background color for the container of all pages in boxed layout."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:26
+msgid "General Custom Background"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:34
+msgid "Select the color to use as background on your header"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:50
+msgid "Header background color in sticky position"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:51
+msgid ""
+"Select the color to use as background on your header when is in sticky "
+"position"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:68
+msgid "Select the image to use as background on your page header"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:87
+msgid "Select the repeat mode for the background image of header."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:109
+#: ../theme/panel/theme-options/typography-and-color/header.php:640
+msgid "Select the position for the background image of header."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:126
+#: ../theme/panel/theme-options/typography-and-color/header.php:657
+msgid "Select the attachment for the background image of header."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:138
+msgid "Logo font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:139
+msgid "Select the type to use for the logo font."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:167
+msgid "Logo font highlight"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:168
+msgid "Select the type to use for the logo font highlight."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:198
+msgid "Tagline font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:199
+msgid "Select the type to use for the tagline below the logo."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:228
+msgid "Tagline font highlight"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:229
+msgid "Select the type to use for the tagline highlight."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:266
+msgid "Slogan font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:267
+msgid "Select the type to use for the slogan."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:296
+msgid "Sub Slogan font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:297
+msgid "Select the type to use for the sub slogan."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:326
+msgid "Slogan title highlight"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:327
+msgid "Select the color to use for the highlight of titles"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:343
+msgid "Slogan background color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:344
+msgid "Select the color to use as background on your slogans"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:367
+msgid "Topbar font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:368
+msgid "Select the font to use for the topbar."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:400
+msgid "Topbar background color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:401
+msgid "Select the color to use as background on your page topbar"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:416
+msgid "Topbar border bottom color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:417
+msgid "Select the color to use as border bottom on your topbar"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:436
+msgid "Select the type to use for the links in your page header."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:465
+msgid "Topbar Navigation Font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:466
+msgid "Select the font to use in a menu for the topbar."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:503
+msgid "Topbar Menu Link color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:504
+msgid "Select the colors to use for the links in topbar menu"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:551
+msgid "Infobar font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:552
+msgid "Select the font to use for the infobar."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:581
+msgid "Infobar background color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:582
+msgid "Select the color to use as background on your page infobar"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:598
+msgid "Infobar background image"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:599
+msgid "Select the image to use as background on your page infobar"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:618
+msgid "Select the repeat mode for the background image of infobar."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:674
+msgid "Select the type to use for the links in your infobar"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:702
+msgid "Navigation"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:709
+msgid "Navigation font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:710
+msgid "Choose the font type, size and color for the navigation."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:741
+msgid "Navigation Links Color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:742
+msgid "Select the colors to use for the links in navigation menu"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:772
+msgid "Background Color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:773
+msgid "Home Color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:775
+msgid "Home Icon menu item"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:776
+msgid ""
+"Choose the colors of home icon when this menu item has class \"icon-home\""
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:804
+msgid "Navigation border color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:805
+msgid "Select the color to use as border on your navigation bar"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:828
+msgid "Navigation Hightlight font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:829
+msgid "Choose the font type, size and color for the navigation hightlight."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:858
+#: ../theme/panel/theme-options/typography-and-color/header.php:890
+msgid "Text"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:859
+#: ../theme/panel/theme-options/typography-and-color/header.php:891
+#: ../theme/panel/theme-options/typography-and-color/header.php:1096
+#: ../theme/panel/theme-options/typography-and-color/header.php:1129
+msgid "Background"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:861
+msgid "Highlight Colors"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:862
+msgid ""
+"Select the colors to use for the highlight text in menu item when the title "
+"is marked by []"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:893
+msgid "Highlight Colors Inverse"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:894
+msgid ""
+"Select the colors to use for the highlight text in menu item when the title "
+"is marked by {}"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:921
+msgid "Sub Navigation"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:927
+msgid "Sub Navigation background color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:928
+msgid "Select the color to use as background on your subnavigation bar"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:949
+msgid "Sub Navigation font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:950
+msgid "Choose the font type, size and color for the subnavigation."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:981
+msgid "Subnavigation Links Color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:982
+msgid "Select the colors to use for the links in submenu"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:1009
+msgid "Megamenu and Big Menu"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:1015
+msgid "Mega Menu font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:1016
+msgid "Choose the font type, size and color for the mega menu"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:1045
+msgid "Title hover"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:1046
+msgid "Submenu"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:1047
+msgid "Submenu hover"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:1049
+msgid "Megamenu Links Color"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:1050
+msgid "Select the colors to use for the links in megamenu"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:1087
+msgid "Mini Search Colors"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:1098
+msgid "Mini Search Widget Colors"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:1099
+msgid ""
+"Select the colors to use for the mini search widget border and background"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:1131
+msgid "Mini Search Widget Button Colors"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/header.php:1132
+msgid ""
+"Select the colors to use for the mini search widget button border and "
+"background"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/html-tags.php:26
+msgid "HTML Tags General Settings"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/html-tags.php:71
+msgid "Paragraphs"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/html-tags.php:72
+msgid "Select the type to use for the p."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/html-tags.php:100
+msgid "Headings 1 font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/html-tags.php:101
+msgid "Select the type to use for the h1."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/html-tags.php:130
+msgid "Headings 2 font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/html-tags.php:131
+msgid "Select the type to use for the h2."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/html-tags.php:160
+msgid "Headings 3 font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/html-tags.php:161
+msgid "Select the type to use for the h3."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/html-tags.php:190
+msgid "Headings 4 font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/html-tags.php:191
+msgid "Select the type to use for the h4."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/html-tags.php:221
+msgid "Headings 5 font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/html-tags.php:222
+msgid "Select the type to use for the h5."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/html-tags.php:251
+msgid "Headings 6 font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/html-tags.php:252
+msgid "Select the type to use for the h6."
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:33
+msgid "Sidebar title font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:62
+msgid "Contact Info"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:69
+msgid "Widget contact info title font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:98
+msgid "Widget contact info subtitle font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:127
+msgid "Widget contact info label font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:156
+msgid "Widget contact info value font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:185
+msgid "Teaser"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:191
+msgid "Widget Teaser slogan font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:222
+msgid "Widget Teaser subslogan font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:252
+msgid "Toggle Menu"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:258
+msgid "Widget Toggle Menu font"
+msgstr ""
+
+#: ../theme/panel/theme-options/typography-and-color/sidebars-and-widgets.php:289
+msgid "Widget Toggle Submenu font"
+msgstr ""
+
+#: ../theme/shortcodes.php:32
+msgid "OnePage Anchor"
+msgstr ""
+
+#: ../theme/shortcodes.php:33
+msgid "Add the anchor for your OnePage"
+msgstr ""
+
+#: ../theme/shortcodes.php:39
+msgid "Name anchor (the name of anchor you define in the menu with #)"
+msgstr ""
+
+#: ../theme/shortcodes.php:49
+msgid "Testimonials"
+msgstr ""
+
+#: ../theme/shortcodes.php:50
+msgid "Show all post on testimonials post types"
+msgstr ""
+
+#: ../theme/shortcodes.php:58
+msgid "Show all with -1"
+msgstr ""
+
+#: ../theme/shortcodes.php:64
+msgid "Select the categories of posts to show"
+msgstr ""
+
+#: ../theme/shortcodes.php:87
+msgid "Print a blog slider"
+msgstr ""
+
+#: ../theme/shortcodes.php:94
+msgid "Number of items"
+msgstr ""
+
+#: ../theme/shortcodes.php:95
+msgid "-1 to show all elements"
+msgstr ""
+
+#: ../theme/shortcodes.php:102
+msgid "Enable Slider"
+msgstr ""
+
+#: ../theme/shortcodes.php:107
+msgid "Show Thumbnails"
+msgstr ""
+
+#: ../theme/shortcodes.php:112
+#, fuzzy
+msgid "Show Date"
+msgstr "Add to basket"
+
+#: ../theme/shortcodes.php:122
+msgid "Show Author"
+msgstr ""
+
+#: ../theme/shortcodes.php:127
+msgid "Show Comments"
+msgstr ""
+
+#: ../theme/shortcodes.php:148
+msgid "Separator"
+msgstr ""
+
+#: ../theme/shortcodes.php:149
+msgid "Print a separator line"
+msgstr ""
+
+#: ../theme/shortcodes.php:156
+msgid "Separator style"
+msgstr ""
+
+#: ../theme/shortcodes.php:159
+msgid "Single line"
+msgstr ""
+
+#: ../theme/shortcodes.php:160
+msgid "Double line"
+msgstr ""
+
+#: ../theme/shortcodes.php:161
+msgid "Dotted line"
+msgstr ""
+
+#: ../theme/shortcodes.php:162
+msgid "Dashed line"
+msgstr ""
+
+#: ../theme/shortcodes.php:167
+msgid "Separator color"
+msgstr ""
+
+#: ../theme/shortcodes.php:172
+msgid "Margin top"
+msgstr ""
+
+#: ../theme/shortcodes.php:179
+msgid "Margin bottom"
+msgstr ""
+
+#: ../theme/sidebars.php:24
+msgid "Default sidebars"
+msgstr ""
+
+#: ../theme/sidebars.php:25
+msgid "Widget area for default sidebar"
+msgstr ""
+
+#: ../theme/sidebars.php:31
+msgid "Header Sidebar"
+msgstr ""
+
+#: ../theme/sidebars.php:32
+msgid "Widget area near the navigation"
+msgstr ""
+
+#: ../theme/templates/404/404.php:15
+msgid "I suggest you to use this search box below:"
+msgstr ""
+
+#: ../theme/templates/blog/post-formats/audio.php:65
+msgid "We are sorry but Adobe Flash&copy; is not supported on your device."
+msgstr ""
+
+#: ../theme/templates/blog/small/markup.php:43
+#: ../theme/templates/blog/small/single.php:57
+#: ../theme/templates/shortcodes/blog_section.php:81
+#: ../theme/yit/widgets/recent_posts.php:111
+msgid "by"
+msgstr ""
+
+#: ../theme/templates/blog/small/markup.php:50
+#: ../theme/templates/blog/small/single.php:64
+msgid "Categories: "
+msgstr ""
+
+#: ../theme/templates/blog/small/markup.php:58
+#: ../theme/templates/blog/small/single.php:72
+msgid "Comments: "
+msgstr ""
+
+#: ../theme/templates/blog/small/markup.php:66
+#: ../theme/templates/blog/small/single.php:80
+msgid "Tags: "
+msgstr ""
+
+#: ../theme/templates/comments/paginations.php:14
+#, fuzzy
+msgid "&larr; Older Comments"
+msgstr "&larr; Return To Basket"
+
+#: ../theme/templates/comments/paginations.php:17
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../theme/templates/comments/trackbacks.php:25
+msgid "Trackbacks and pingbacks"
+msgstr ""
+
+#: ../theme/templates/comments/trackbacks.php:50
+msgid "No trackback or pingback available for this article."
+msgstr ""
+
+#: ../theme/templates/primary/loop/blog.php:51
+#: ../theme/templates/primary/loop/single.php:48
+msgid "(this post does not have a title)"
+msgstr ""
+
+#: ../theme/templates/primary/loop/blog.php:52
+#: ../theme/yit/widgets/recent_posts.php:165
+msgid "Read More"
+msgstr ""
+
+#: ../theme/templates/primary/loop/loop.php:27
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../theme/templates/primary/loop/loop.php:75
+msgid "Not Found"
+msgstr ""
+
+#: ../theme/templates/primary/loop/loop.php:78
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: ../theme/templates/shortcodes/blog_section.php:84
+msgid "Comment"
+msgstr ""
+
+#: ../theme/templates/shortcodes/faq.php:65
+msgid "All"
+msgstr ""
+
+#: ../theme/yit/widgets/last_tweets.php:18
+msgid "Retrieve the last tweets."
+msgstr ""
+
+#: ../theme/yit/widgets/last_tweets.php:23
+#: ../theme/yit/widgets/last_tweets.php:29
+msgid "Last Tweets"
+msgstr ""
+
+#: ../theme/yit/widgets/last_tweets.php:58
+msgid "Consumer key"
+msgstr ""
+
+#: ../theme/yit/widgets/last_tweets.php:65
+msgid "Consumer secret"
+msgstr ""
+
+#: ../theme/yit/widgets/last_tweets.php:72
+msgid "Access token"
+msgstr ""
+
+#: ../theme/yit/widgets/last_tweets.php:79
+msgid "Access token secret"
+msgstr ""
+
+#: ../theme/yit/widgets/last_tweets.php:86
+msgid "Limit"
+msgstr ""
+
+#: ../theme/yit/widgets/last_tweets.php:101
+#, fuzzy
+msgid "Show Time"
+msgstr "Add to basket"
+
+#: ../theme/yit/widgets/last_tweets.php:109
+msgid "Show Follow link"
+msgstr ""
+
+#: ../theme/yit/widgets/recent_comments.php:21
+msgid "The most recent comments."
+msgstr ""
+
+#: ../theme/yit/widgets/recent_comments.php:26
+#: ../theme/yit/widgets/recent_comments.php:32
+#: ../theme/yit/widgets/recent_comments.php:95
+msgid "Recent Comments"
+msgstr ""
+
+#: ../theme/yit/widgets/recent_comments.php:43
+msgid "Title:"
+msgstr ""
+
+#: ../theme/yit/widgets/recent_comments.php:48
+msgid "Number of comments to show:"
+msgstr ""
+
+#: ../theme/yit/widgets/recent_comments.php:53
+msgid "Show avatar:"
+msgstr ""
+
+#: ../theme/yit/widgets/recent_comments.php:61
+msgid "Show author:"
+msgstr ""
+
+#: ../theme/yit/widgets/recent_comments.php:69
+msgid "Show comment text:"
+msgstr ""
+
+#: ../theme/yit/widgets/recent_comments.php:77
+msgid "Comments text length:"
+msgstr ""
+
+#: ../theme/yit/widgets/recent_comments.php:88
+msgid "Recent comments"
+msgstr ""
+
+#: ../theme/yit/widgets/recent_comments.php:148
+msgid "on"
+msgstr ""
+
+#: ../theme/yit/widgets/recent_posts.php:22
+msgid "The latest posts, with a preview thumb."
+msgstr ""
+
+#: ../theme/yit/widgets/recent_posts.php:27
+#: ../theme/yit/widgets/recent_posts.php:162
+msgid "Recent Posts"
+msgstr ""
+
+#: ../theme/yit/widgets/recent_posts.php:117
+msgid " comment"
+msgstr ""
+
+#: ../theme/yit/widgets/recent_posts.php:117
+msgid " comments"
+msgstr ""
+
+#: ../theme/yit/widgets/recent_posts.php:182
+msgid "Show thumbnail"
+msgstr ""
+
+#: ../theme/yit/widgets/recent_posts.php:191
+msgid "Items"
+msgstr ""
+
+#: ../theme/yit/widgets/recent_posts.php:197
+msgid "Show Post Date"
+msgstr ""
+
+#: ../theme/yit/widgets/recent_posts.php:206
+msgid "Show Excerpt"
+msgstr ""
+
+#: ../theme/yit/widgets/recent_posts.php:215
+msgid "Excerpt Lenght"
+msgstr ""
+
+#: ../theme/yit/widgets/recent_posts.php:221
+msgid "More Text"
+msgstr ""
+
+#: ../theme/yit/widgets/recent_posts.php:227
+msgid "Show number of comments"
+msgstr ""
+
+#: ../theme/yit/widgets/yit_text_image.php:20
+msgid "Arbitrary text or HTML, with a simple image."
+msgstr ""
+
+#: ../theme/yit/widgets/yit_text_image.php:25
+msgid "YIT Text With Image"
+msgstr ""
+
+#: ../theme/yit/widgets/yit_text_image.php:60
+msgid "If you set an image this field is invalid"
+msgstr ""
+
+#: ../theme/yit/widgets/yit_text_image.php:64
+msgid "Image"
+msgstr ""
+
+#: ../theme/yit/widgets/yit_text_image.php:70
+msgid "Image Alignment"
+msgstr ""
+
+#: ../theme/yit/widgets/yit_text_image.php:79
+msgid "Link Image"
+msgstr ""
+
+#: ../theme/yit/widgets/yit_text_image.php:84
+msgid "Text ( you can use html )"
+msgstr ""
+
+#: ../theme/yit/widgets/yit_text_image.php:89
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: ../theme/yit/widgets/yit_toggle_menu.php:25
+msgid ""
+"Print a custom menu in a sidebar with a fancy toggle jQuery effect. Create "
+"an apposite menu for this widget in Appearance -> Menus."
+msgstr ""
+
+#: ../theme/yit/widgets/yit_toggle_menu.php:49
+msgid "Menu"
+msgstr ""
+
+#: ../theme/yit/widgets/yit_toggle_menu.php:60
+msgid "Open the first dropdown"
+msgstr ""
+
+#: ../theme/yit/widgets/yit_toggle_menu.php:63
+msgid "Open all dropdowns"
+msgstr ""
+
+#: ../theme/yit/widgets/yit_toggle_menu.php:66
+msgid "Open active dropdown"
+msgstr ""
+
+#: ../theme/yit/widgets/yit_toggle_menu.php:69
+msgid "Close all dropdowns"
+msgstr ""

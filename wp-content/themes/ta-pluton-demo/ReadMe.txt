@@ -1,0 +1,1 @@
+Extract the zip file, import the "ta-pluton-demo.xml" file via Tools – Import, and import the "ta-pluton-options.json" file via Theme Panel – Import / Export.

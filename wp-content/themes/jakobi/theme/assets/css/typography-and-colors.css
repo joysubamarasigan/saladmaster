@@ -1,0 +1,1105 @@
+
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://fonts.gstatic.com/s/opensans/v10/K88pR3goAWT7BTt32Z01m1tXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://fonts.gstatic.com/s/opensans/v10/RjgO7rYTmqiVp7vzi-Q5UVtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://fonts.gstatic.com/s/opensans/v10/ttwNtsRpgsxVmgGGmiUOEltXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+  unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://fonts.gstatic.com/s/opensans/v10/LWCjsQkB6EMdfHrEVqA1KVtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://fonts.gstatic.com/s/opensans/v10/xozscpT2726on7jbcb_pAltXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://fonts.gstatic.com/s/opensans/v10/59ZRklaO5bWGqF5A9baEEVtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF1, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://fonts.gstatic.com/s/opensans/v10/u-WUoqrET9fUeobQW7jkRVtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://fonts.gstatic.com/s/opensans/v10/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(http://fonts.gstatic.com/s/opensans/v10/MTP_ySUJH_bn48VBG8sNSiUUniRZcd_wq8DYmIfsw2A.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(http://fonts.gstatic.com/s/opensans/v10/MTP_ySUJH_bn48VBG8sNSuXREeHhJi4GEUJI9ob_ak4.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(http://fonts.gstatic.com/s/opensans/v10/MTP_ySUJH_bn48VBG8sNSo0Uz7fbu6RM5MPetubMKio.woff2) format('woff2');
+  unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(http://fonts.gstatic.com/s/opensans/v10/MTP_ySUJH_bn48VBG8sNSvzy0yu4vcvNhe7QLuoE8rU.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(http://fonts.gstatic.com/s/opensans/v10/MTP_ySUJH_bn48VBG8sNSs9-ZSaZ3mOOsU9E1f6DGWc.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(http://fonts.gstatic.com/s/opensans/v10/MTP_ySUJH_bn48VBG8sNSoZI5FoslwusAsZHK_V0XCI.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF1, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(http://fonts.gstatic.com/s/opensans/v10/MTP_ySUJH_bn48VBG8sNShUOjZSKWg4xBWp_C_qQx0o.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(http://fonts.gstatic.com/s/opensans/v10/MTP_ySUJH_bn48VBG8sNSugdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzCUUniRZcd_wq8DYmIfsw2A.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzOXREeHhJi4GEUJI9ob_ak4.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzI0Uz7fbu6RM5MPetubMKio.woff2) format('woff2');
+  unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzPzy0yu4vcvNhe7QLuoE8rU.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzM9-ZSaZ3mOOsU9E1f6DGWc.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzIZI5FoslwusAsZHK_V0XCI.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF1, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzBUOjZSKWg4xBWp_C_qQx0o.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzOgdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Oswald Regular'), local('Oswald-Regular'), url(http://fonts.gstatic.com/s/oswald/v10/yg0glPPxXUISnKUejCX4qfesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Oswald Regular'), local('Oswald-Regular'), url(http://fonts.gstatic.com/s/oswald/v10/BObL_3V2WX-YniTOi4CsnvesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Oswald Bold'), local('Oswald-Bold'), url(http://fonts.gstatic.com/s/oswald/v10/dI-qzxlKVQA6TUC5RKSb3xJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Oswald Bold'), local('Oswald-Bold'), url(http://fonts.gstatic.com/s/oswald/v10/bH7276GfdCjMjApa_dkG6RJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin */
+@font-face {
+  font-family: 'Satisfy';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Satisfy'), url(http://fonts.gstatic.com/s/satisfy/v6/1UIER1QX4ioaXfP2wCFAOPY6323mHUZFJMgTvxaG2iE.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+ /*
+  * Free theme version typography and colors customizations
+ */
+
+#header-sidebar .widget_search_mini > a > i {
+    color: #484848;
+}
+
+#header-sidebar .widget_search_mini > a > i:hover {
+    color: #1b8aa5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif;
+}
+
+body, p, li, address, dd, blockquote, td, th, span {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.highlight, .toggle span.opened, .title-highlight, #primary .testimonials-slider ul.testimonial-content li blockquote p:before {
+    color: #4caac1;
+}
+
+.special-font, .special-font a.btn-alternative {
+    font-size: 12px;
+    font-family: 'Satisfy', sans-serif;
+    color: #3a3a39;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-transform: none;
+}
+
+.boxed-layout #wrapper {
+    background-color: #ffffff;
+}
+
+.shade-1, .fa.shade-1, #footer span.icon-circle i.fa, .blog-slider .next-blog:hover .icon-circle i.fa, .blog-slider .prev-blog:hover .icon-circle i.fa, .images-slider-sc .flex-direction-nav li a:hover:before {
+    color: #3a3a39;
+}
+
+.shade-2, #primary .testimonials-slider ul.testimonial-content li p.meta, #primary .testimonials-slider ul.testimonial-content li p.meta a, #primary div.owl-prev:hover i, #primary div.owl-next:hover i, .images-slider-sc ul li a.flex-prev:hover i, .images-slider-sc ul li a.flex-next:hover i, .logos-slider .nav .prev:hover i, .logos-slider .nav .next:hover i, #primary .testimonial-widget .owl-buttons .owl-prev:hover i, #primary .testimonial-widget .owl-buttons .owl-next:hover i {
+    color: #38bddd;
+}
+
+.pricing_box.price-table.large div.head span.price,
+#wp-calendar th, #wp-calendar #today,
+#wp-calendar #today a,
+.blog.small .yit_post_format_icon,
+.service-wrapper .image-wrapper.border:hover {
+    background-color: #78c2d4;
+}
+
+.blog.small .yit_post_content h1.post-title,
+.blog.small .yit_post_meta,
+span.share-text,
+.single-post .blog.small .yit_post_meta,
+.single-post .blog.small .yit_post_content,
+#comments ol li .content,
+#copyright .border,
+#primary .testimonials-slider,
+#testimonial .arrow-down:before,
+.features-tab-container ul.features-tab-labels li.features-tab-0,
+#yit-popup-footer,
+#header .main-nav > ul {
+    border-top-color: #cdcdcd;
+}
+
+.yit_post_quote, .arrow:before,
+#footer h5,
+#footer .widget_text .textwidget div.box-sections,
+.filters-container ul.filters,
+.faq.filters,
+#faqs-container .faq-wrapper .faq-title,
+#primary .testimonials-slider,
+.toggle .tab-index,
+.blog.small .yit_post_quote,
+q,
+.box-title.box-title-line-middle .title-bar:after,
+.box-title.box-title-line-middle .title-bar:before,
+.box-title.box-title-line-around .title-bar:after,
+.box-title.box-title-line-around .title-bar:before,
+.widget.recent-comments h3,
+.features-tab-container ul.features-tab-labels li,
+.widget h3,
+.arrow-right:before, .sitemap > div h3,
+.yit_shortcodes.last-post p.date,
+.widget.contact-info h2,
+.blog.small .yit_post_content h2.post-title,
+.yit-maintenance-mode .socials{
+    border-bottom-color: #cdcdcd;
+}
+
+.form-control:focus,
+.blog.small .yit_post_content,
+#comments ol li .content,
+#comments ol li .avatar img,
+#commentform input:not([type=submit]),
+#commentform .comment-form-comment #comment,
+.tabs-container ul.tabs,
+#testimonial.testimonial-square,
+#testimonial.testimonial-comic .testimonial-box,
+.sbHolder .sbOptions,
+.sbHolder a.sbSelector,
+.box-title.box-title-line-around h5,
+.box-title.box-title-line-around h2,
+.widget.recent-comments .recent-comments-list .comment,
+.blog_section.post_meta,
+.features-tab-container ul.features-tab-labels,
+#primary .parallaxeos_outer .testimonials-slider ul.testimonial-content div.owl-next,
+#primary .parallaxeos_outer .testimonials-slider ul.testimonial-content div.owl-prev,
+#primary .testimonial-widget .testimonial-content,
+.arrow-left,
+.arrow-left:after,
+.arrow-left:before,
+.widget.widget_search #searchform,
+#primary div.owl-prev,
+#primary div.owl-next,
+.widget.teaser div.teaser,
+.call-three,
+.sticky .blog.small,
+.call-to-action-two,
+.banner-container,
+.widget.testimonial-widget ul li div.testimonial-description,
+.logos-slider .nav a.prev, .logos-slider .nav a.next,
+.images-slider-sc ul li a.flex-prev, .images-slider-sc ul li a.flex-next,
+.blog-slider .icon-circle,
+.comment-flexslider,
+.quick-view-overlay .main .head,
+#yith-s,
+.widget.widget_meta ul > li > a:before,
+.widget.widget_pages ul > li > a:before,
+.yit_shortcodes.recent-post .thumb-img img,
+.widget.recent-posts .recent-post .hentry-post .thumb-img,
+.yit_shortcodes.last-post p.date,
+.featured-column,
+.text-with-image,
+.yit-maintenance-mode .socials a span,
+#searchform,
+#welcome-menu-login.nav ul > li #customer_login .form-group .form-control,
+#welcome-menu-login.nav ul > li #customer_login .customer-login-box2,
+#customer_login .col-2 {
+    border-color: #cdcdcd;
+}
+
+.border-line {
+    background-color: #cdcdcd;
+}
+
+.yit_post_quote,
+.filters-container ul.filters,
+.faq.filters,
+q,
+.yit-maintenance-mode .socials {
+    border-top-color: #1b8aa5;
+}
+
+.single-post .blog.small .yit_post_meta,
+#footer-copyright-group,
+.parallaxeos_container,
+.tabs-container ul.tabs li.current,
+.tabs-container ul.tabs li:hover,
+.sticky .blog.small,
+.features-tab-container ul.features-tab-labels li.current-feature,
+.features-tab-container ul.features-tab-labels li.current-feature:hover,
+.nav ul > li.icon-home a {
+    border-bottom-color: #1b8aa5;
+}
+
+.blog .yit_post_quote,
+.blog.small .yit_post_meta_date,
+.single-post .blog.small .yit_post_meta_date,
+#comments ol li .avatar.is_author img,
+#commentform input:not([type=submit]):focus,
+#commentform .comment-form-comment #comment:focus,
+.widget.recent-posts .recent-post .hentry-post p.post-date,
+#primary .parallaxeos_outer .testimonials-slider ul.testimonial-content div.owl-next:hover,
+#primary .parallaxeos_outer .testimonials-slider ul.testimonial-content div.owl-prev:hover,
+.toggle.with-border .tab-index span,
+.blog.small .thumbnail:after,
+.sbHolder a.sbSelector:focus,
+.sbHolder a.sbFocus,
+.widget.recent-comments .recent-comments-list .the-post .avatar,
+#footer .icon-circle,
+#primary div.owl-prev:hover,
+#primary div.owl-next:hover,
+.blog_section .yit_post_meta_date,
+.random-numbers span.icon-circle,
+.general-pagination a.selected,
+#welcome-menu-login.nav ul > li #customer_login .form-group .form-control[type=text]:focus,
+#welcome-menu-login.nav ul > li #customer_login .form-group .form-control[type=text]:hover,
+#welcome-menu-login.nav ul > li #customer_login .form-group .form-control[type=email]:focus,
+#welcome-menu-login.nav ul > li #customer_login .form-group .form-control[type=email]:hover,
+#welcome-menu-login.nav ul > li #customer_login .form-group .form-control[type=password]:focus,
+#welcome-menu-login.nav ul > li #customer_login .form-group .form-control[type=password]:hover,
+.logos-slider .nav a.prev:hover,
+.logos-slider .nav a.next:hover,
+.images-slider-sc ul li a.flex-prev:hover,
+.images-slider-sc ul li a.flex-next:hover,
+.blog-slider .next-blog:hover .icon-circle,
+.blog-slider .prev-blog:hover .icon-circle,
+.comment-flexslider .avatar,
+.yit_shortcodes.recent-post p.post-date,
+.service-wrapper .image-wrapper.border,
+.yit-maintenance-mode .socials a:hover span,
+.dropcap {
+    border-color: #1b8aa5;
+}
+
+.fa,
+.widget_product_categories ul.product-categories > li > a:before,
+.widget_nav_menu ul.menu > li > a:before,
+.widget.widget_meta ul > li > a:before,
+.widget.widget_pages ul > li > a:before,
+.widget.featured-products .flex-direction-nav li a, ul.short li:before,
+.comment-flexslider ul.flex-direction-nav li a,
+.widget.yit_toggle_menu ul.menu > li > a:before, .sitemap ul > li:before,
+.widget.widget_categories ul > li,
+.widget.widget_archive ul > li,
+#faqs-container .faq-wrapper .faq-title h4:before,
+#title_bar .product-nav .next a, #title_bar .product-nav .prev a,
+.faq-filters ul > li > a:before,
+.yit-maintenance-mode .socials a span,
+#faqs-container .faq-wrapper .faq-title .faq-icon,
+.images-slider-sc .flex-direction-nav li a:before {
+    color: #b4b4b4;
+}
+
+a, a:visited,
+.categories-slider-wrapper .es-nav-prev:hover span, .categories-slider-wrapper .es-nav-next:hover span, .widget.featured-products .flex-direction-nav li a:hover, .widget.yit_toggle_menu ul.menu > li.opened > a:before, .widget.yit_toggle_menu ul.menu > li:hover > a:before,
+.yit_shortcodes.recent-post .text a.read-more, .yit_shortcodes.recent-post .text a,
+#faqs-container .faq-wrapper .faq-title.active h4:before {
+    color: #4caac1;
+}
+
+a:hover,
+a:active,
+.tabs-container ul.tabs li.current h4 a,
+.tabs-container ul.tabs li:hover h4 a,
+.widget.recent-comments .recent-comments-list .the-post .comments-info-wrapper .author .url:hover,
+.widget.recent-comments .recent-comments-list .the-post .comments-info-wrapper .author .email:hover,
+.widget.recent-comments .recent-comments-list .the-post .comments-info-wrapper .title:hover,
+.filters.faq li a:hover,
+.filters.faq li a.active,
+.filters-container ul.filters li a:hover,
+.filters-container ul.filters li a.active,
+.features-tab-container ul.features-tab-labels li.current-feature h4 a,
+.features-tab-container ul.features-tab-labels li.current-feature:hover h4 a,
+.widget_nav_menu a:hover,
+.widget.last-tweets p a:hover,
+.widget.recent-posts .recent-post .text > div.post-content > a.title:hover,
+.widget.recent-posts .recent-post span.author a:hover,
+.widget.recent-posts .recent-post span.num-comments a:hover,
+.widget_meta a:hover,
+.widget_pages a:hover,
+.comment-flexslider ul.flex-direction-nav li a:hover,
+.widget.yit_toggle_menu ul.sub-menu li a:hover,
+.sitemap ul > li a:hover,
+.sitemap > div h2 a:hover,
+div.tagcloud a:hover,
+div h2 a, div.tagcloud a:hover,
+.widget.widget_categories ul > li a:hover,
+.widget.widget_archive ul > li a:hover,
+#modal-window div.modal-opener a:hover,
+.yit_shortcodes.recent-post .text a.title:hover,
+.yit_shortcodes.recent-post .text a.read-more:hover,
+.yit_shortcodes.recent-post .post-meta a:hover,
+.yit_shortcode.post-list a:hover,
+.yit_shortcodes.last-post h3 a:hover,
+.yitpopup_wrapper a.close:hover:before,
+#cboxClose:hover:after,
+.modal-shortcode .modal .modal-header a.close span:hover:before,
+.faq-filters ul > li > a:hover,
+.yit-maintenance-mode .socials a:hover span,
+.yit-maintenance-mode .socials a:hover span,
+#faqs-container .faq-wrapper .faq-title .faq-icon.minus,
+.parallaxeos_animate a:hover {
+    color: #1b8aa5;
+}
+
+p, li, address, dt, dd, blockquote, td, th,
+.breadcrumbs a,
+.sbHolder a,
+.form-row a.chosen-single span,
+.filters.faq li a,
+.filters-container ul.filters li a,
+.random-numbers p,
+.widget_nav_menu a,
+.widget_meta a,
+.widget_pages a,
+.widget.recent-posts .recent-post span.num-comments a,
+.widget.recent-posts .recent-post span.author a,
+.widget.recent-posts .recent-post span.author,
+.widget.recent-posts .recent-post span.num-comments,
+.widget.recent-posts .recent-post span.author,
+.widget.recent-posts .recent-post span.num-comments,
+.sitemap ul > li a, .sitemap > div h2 a, div.tagcloud a,
+.sitemap ul > li a, .sitemap > div h2 a,
+div h2 a, div.tagcloud a,
+.widget.widget_categories ul > li a,
+.widget.widget_archive ul > li a,
+#modal-window div.modal-opener a,
+.yit_shortcodes.recent-post .post-meta a,
+.ac_results ul,
+.ac_results ul li,
+.yitpopup_wrapper a.close:before,
+#cboxClose:after,
+.modal-shortcode .modal .modal-header a.close span:before,
+.faq-filters ul > li > a,
+#customer_login .wp-social-login-widget .wp-social-login-connect-with {
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    color: #555555;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-transform: none;
+}
+
+h1, h2#yit-popup-title {
+    font-size: 28px;
+    font-family: 'Oswald', sans-serif;
+    color: #000000;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-transform: none;
+}
+
+h2 {
+    font-size: 24px;
+    font-family: 'Oswald', sans-serif;
+    color: #000000;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-transform: none;
+}
+
+h3, .tabs-container ul.tabs li h4 a, .features-tab-container ul.features-tab-labels li h4 a, .yit_shortcodes.last-post h3 a {
+    font-size: 18px;
+    font-family: 'Oswald', sans-serif;
+    color: #000000;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+h4, .toggle h4.tab-index a, .toggle h4.tab-index a:hover,
+.cart-collaterals th {
+    font-size: 16px;
+    font-family: 'Oswald', sans-serif;
+    color: #343535;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-transform: none;
+}
+
+h5, .tweets-widget span.meta {
+    font-size: 14px;
+    font-family: 'Oswald', sans-serif;
+    color: #000000;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-transform: none;
+}
+
+h6 {
+    font-size: 12px;
+    font-family: 'Oswald', sans-serif;
+    color: #000000;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-transform: none;
+}
+
+#header {
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-attachment: scroll;
+}
+
+#header.sticky-header, #header.fixed-header, .force-sticky-header #header {
+    background-color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+#logo #textual {
+    font-size: 42px;
+    font-family: 'Oswald', sans-serif;
+    color: #3a3a39;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-transform: none;
+}
+
+#logo #textual.highlight {
+    font-size: 42px;
+    font-family: 'Oswald', sans-serif;
+    color: #37aec4;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-transform: none;
+}
+
+#tagline {
+    font-size: 12px;
+    font-family: 'Oswald', sans-serif;
+    color: #3a3a39;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-transform: none;
+}
+
+#tagline.highlight {
+    font-size: 12px;
+    font-family: 'Oswald', sans-serif;
+    color: #37aec4;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-transform: none;
+}
+
+.testimonials-slider ul.testimonial-content li p.meta a:hover {
+    color: #ffffff;
+}
+
+.nav ul > li a {
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+#header-sidebar #lang_sel ul > li > ul > li a:hover, .nav ul > li a:hover, .nav ul > li a:focus,
+.nav .current-menu-item > a, .nav .current-menu-ancestor > a, .nav .current-page-item > a, .nav ul > li:hover > a,
+#header .nav li.menu-close > a {
+    color: #37aec4;
+}
+
+.nav ul > li.icon-home {
+    background: #4caac1;
+}
+
+nav ul > li.icon-home a, nav ul > li.icon-home a:hover, nav ul > li.icon-home:hover a, .nav ul > li.icon-home a:hover, .nav ul > li.icon-home a {
+    color: #ffffff;
+}
+
+.nav div.submenu > ul.sub-menu,
+#welcome-menu-login.nav ul li.login-menu div.submenu,
+#header-sidebar #lang_sel ul li ul,
+#header-sidebar .widget_nav_menu li:hover ul.sub-menu,
+#header-sidebar .widget_nav_menu #lang_sel:hover ul li ul
+#welcome-menu-login.nav ul li.login-menu div.submenu {
+    border-color: #d2d7d8;
+}
+
+.nav span.highlight, .nav span.highlight-inverse {
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.nav span.highlight {
+    color: #000000;
+    background: #37aec4;
+}
+
+.nav span.highlight-inverse {
+    color: #37aec4;
+    background: #000000;
+}
+
+.nav ul.sub-menu,
+#header-sidebar #lang_sel ul li ul
+#welcome-menu-login.nav ul li.login-menu div.submenu,
+#menu-welcome-login > li div > div.login-box.with_registration {
+    background-color: #ffffff;
+}
+
+.nav ul.sub-menu li a, .nav ul.children li a {
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.nav ul.sub-menu li a, .nav ul.children li a{
+    color: #797979;
+}
+
+.nav ul.sub-menu li a:hover, .nav ul.children li a:hover, .nav ul.sub-menu li a:hover, .nav ul.children li a:hover {
+    color: #37aec4;
+}
+
+#header-sidebar .widget_search_mini .search_mini_content.animated, .skin1 #header-sidebar .widget_search_mini .search_mini_content{
+    border-color: #37aec4;
+}
+
+#header-sidebar .widget_search_mini .search_mini_content.animated, .skin1 #header-sidebar .widget_search_mini .search_mini_content {
+    background: #ffffff;
+}
+
+#mini-search-submit, .yith-ajaxsearchform-container #yith-searchsubmit{
+    border-color: #D3A310;
+    background-color: #37aec4;
+}
+
+.widget h3 {
+    font-size: 17px;
+    font-family: 'Oswald', sans-serif;
+    color: #000000;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.contact-info > h3 {
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    color: #343535;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-transform: none;
+}
+
+.contact-info > h2 {
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    color: #343535;
+    font-style: normal;
+    font-weight: 700;
+    text-align: left;
+    text-transform: none;
+}
+
+.contact-info ul li strong {
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    color: #343535;
+    font-style: normal;
+    font-weight: 700;
+    text-align: left;
+    text-transform: none;
+}
+
+.contact-info ul li {
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    color: #5f5d5d;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-transform: none;
+}
+
+.widget.teaser .image-banner-text .title {
+    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.widget.teaser .image-banner-text .subtitle {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    color: #37aec4;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.widget.yit_toggle_menu ul.menu > li > a {
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    color: #000000;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.widget.yit_toggle_menu ul.sub-menu li a {
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    color: #5f5d5d;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-transform: none;
+}
+
+.btn-flat, a.btn-flat,
+.nav ul > li div div.btn-fb-login a,
+#welcome-menu-login.nav ul > li #customer_login .button,
+a.button.view,
+.banner-image .button,
+.wishlist_table .button,
+a.btn.animated.btn-flat:hover,
+a.bp-title-button {
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.btn-flat:hover,
+.nav ul > li div div.btn-fb-login a:hover,
+a.btn-flat:hover,
+#welcome-menu-login.nav ul > li #customer_login .button:hover,
+a.button.view:hover,
+.call-to-action-two .call-to-action-two-container div.call-btn a.btn-alternative {
+    color: #ffffff;
+}
+
+.btn-flat,
+a.btn-flat,
+button.button-login,
+.nav ul > li div div.btn-fb-login,
+.banner-image .button,
+#welcome-menu-login.nav ul > li #customer_login .button,
+a.btn.animated.btn-flat,
+a.btn.animated.btn-flat:hover,
+.call-to-action-two .call-to-action-two-container div.call-btn a.btn-alternative {
+    background-color: #1b8aa5;
+    background: #1b8aa5;
+}
+
+.btn-flat:hover,
+a.btn-flat:hover,
+.nav ul > li div div.btn-fb-login:hover,
+#welcome-menu-login.nav ul > li #customer_login .button:hover,
+a.button.view:hover,
+.call-to-action-two .call-to-action-two-container div.call-btn a.btn-alternative:hover {
+    background-color: #343535;
+    background: #343535;
+}
+
+.btn-flat, a.btn-flat, .banner-image .button, .nav ul > li div div.btn-fb-login, a.button.view, .wishlist_table .button, a.btn.animated.btn-flat, a.btn.animated.btn-flat:hover,
+a.bp-title-button,
+#welcome-menu-login.nav ul > li #customer_login .button {
+    border-color: #1b8aa5;
+}
+
+.btn-flat:hover, a.btn-flat:hover, .banner-image .button:hover, .nav ul > li div div.btn-fb-login:hover, a.button.view:hover,
+#welcome-menu-login.nav ul > li #customer_login .button:hover {
+    border-color: #343535;
+}
+
+.btn.btn-alternative,
+a.btn.btn-alternative,
+#welcome-menu-login.nav ul > li #customer_login .button.button-register,
+#submit,
+.button,
+a.btn.animated.btn-alternative:hover,
+#comments ol li .information .user-info .is_author {
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    color: #343535;
+    font-style: normal;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.btn-alternative:hover,
+a.btn-alternative:hover,
+#welcome-menu-login.nav ul > li #customer_login .button.button-register:hover,
+#submit:hover,
+.button:hover {
+    color: #ffffff;
+}
+
+.btn-alternative,
+a.btn-alternative,
+#welcome-menu-login.nav ul > li #customer_login .button.button-register,
+#submit, .button,
+.button.submit-field,
+a.btn.animated.btn-alternative:hover,
+#comments ol li .information .user-info .is_author {
+    background-color: transparent;
+    background: transparent;
+}
+
+.btn-alternative:hover,
+a.btn-alternative:hover,
+#welcome-menu-login.nav ul > li #customer_login .button.button-register:hover,
+#submit:hover,
+.button:hover,
+.button.submit-field:hover,
+#yith-searchsubmit:hover {
+    background-color: #343535;
+    background: #343535;
+}
+
+.btn-alternative,
+a.btn-alternative,
+#welcome-menu-login.nav ul > li #customer_login .button.button-register,
+#submit,
+.button,
+a.btn.animated.btn-alternative:hover {
+    border-color: #343535;
+}
+
+.btn-alternative:hover,
+a.btn-alternative:hover,
+#welcome-menu-login.nav ul > li #customer_login .button.button-register:hover,
+#submit:hover,
+.button:hover {
+    border-color: #343535;
+}
+
+.blog.small h1.post-title a, .blog.small h2.post-title a {
+    font-size: 18px;
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.blog.small h1.post-title a, .blog.small h2.post-title a,
+.blog h1.quote-title a, .blog h2.quote-title a,
+.blog_section.post_meta .title a {
+    color: #000000;
+}
+
+.blog.small h2.post-title a:hover,
+.blog h2.quote-title a:hover,
+.blog_section.post_meta .title a:hover {
+    color: #1b8aa5;
+}
+
+.blog.small .yit_post_meta {
+    font-size: 12px;
+    font-family: 'Oswald', sans-serif;
+    color: #555555;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-transform: none;
+}
+
+.single-post .blog .share .socials-text a,
+.blog.small .yit_post_meta a, .blog.small .yit_post_meta a:visited,
+.blog_section.post_meta .info, .blog_section.post_meta .info a, div.socials a {
+    color: #555555;
+}
+
+.single-post .blog .share .socials-text a:hover, .single-post .blog .share .share-text:hover,
+.blog.small .yit_post_meta a:hover, .blog.small .yit_post_meta a:active,
+.blog_section.post_meta .info a:active, .blog_section.post_meta .info a:hover, div.socials a:hover, span.share-text:hover {
+    color: #1b8aa5;
+}
+
+.reply_link, .comment-reply-link, #commentform .logged-in-as a, .comment-navigation .nav-previous a, .comment-navigation .nav-next a {
+    font-size: 14px;
+    font-family: 'Oswald', sans-serif;
+    color: #555555;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.general-pagination {
+    font-size: 18px;
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+
+.general-pagination a {
+    color: #555555;
+    background-color: #ffffff;
+}
+
+.general-pagination a:hover, #commentform .logged-in-as a:hover, .comment-navigation .nav-previous a:hover, .comment-navigation .nav-next a:hover {
+    color: #4caac1;
+}
+
+.general-pagination a.selected, .general-pagination a:hover.selected {
+    color: #555555;
+}
+
+.general-pagination a:hover {
+    background-color: #ffffff;
+}
+
+.general-pagination a.selected {
+    background-color: #ffffff;
+}
+
+#copyright p, #copyright ul li a {
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    color: #555555;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    text-transform: none;
+}
+
+#copyright a {
+    color: #4caac1;
+}
+
+#copyright a:hover, #copyright ul li a:hover {
+    color: #1b8aa5;
+}
+
+#footer h5, .widget.recent-posts .recent-post .post-date, .widget.recent-posts .recent-post .text > div.post-content > a {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    color: #000000;
+    font-style: normal;
+    font-weight: 700;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+#footer-copyright-group {
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-attachment: scroll;
+}
+
+#back-top a, #back-top a:hover {
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#back-top {
+    background-color: #2e2e2e;
+}
+
+#back-top:hover {
+    background-color: #4caac1;
+}
